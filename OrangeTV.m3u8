@@ -104,13 +104,16 @@ http://17.17.17.2/CH53-SP/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF: -1 tvg-name="SANGEET BHOJPURI" tvg-logo="https://en.wikipedia.org/wiki/Sangeet_Bhojpuri#/media/File:Sangeet_Bhojpuri.jpg" group-title="Music", SANGEET BHOJPURI
 
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Music", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Music", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Music", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Music", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Music", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Music", Chanal Name
+#EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
+
+#EXTINF: -1 tvg-name="SANGIT BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGIT BANGLA
+
+#EXTINF: -1 tvg-name="GB" tvg-logo="https://en.wikipedia.org/wiki/Gaan_Bangla#/media/File:Gaan_Bangla_Logo.png" group-title="Music", GB
+
+#EXTINF: -1 tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/MTV_Beats#/media/File:MTV_Beats_Logo.png" group-title="Music", MTV BEATS
+
 
 
 
