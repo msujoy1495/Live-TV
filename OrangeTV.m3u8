@@ -73,8 +73,12 @@ http://17.17.17.2/CH72-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ABP ANANDA" tvg-logo="https://en.wikipedia.org/wiki/ABP_Ananda#/media/File:ABP_Ananda_logo.svg" group-title="News", ABP ANANDA
 
 #EXTINF: -1 tvg-name="ZEE 24 GHANTA" tvg-logo="https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BF_%E0%A7%A8%E0%A7%AA_%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE#/media/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%9C%E0%A6%BF_%E0%A7%A8%E0%A7%AA_%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE_%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="News", ZEE 24 GHANTA
-
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF: -1 tvg-name="TV9 BANGLA" tvg-logo="https://en.wikipedia.org/wiki/TV9_Bangla#/media/File:TV9_Bangla_logo.jpg" group-title="News", TV9 BANGLA
+
+#EXTINF: -1 tvg-name="ZEE NEWS" tvg-logo="https://en.wikipedia.org/wiki/Zee_News#/media/File:Zee_news.svg" group-title="News", ZEE NEWS
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+
 
 
 
@@ -104,7 +108,7 @@ http://17.17.17.2/CH72-SP/tracks-v1a1/mono.m3u8
 
 
 #EXTINF: -1 tvg-name="SANGEET BHOJPURI" tvg-logo="https://en.wikipedia.org/wiki/Sangeet_Bhojpuri#/media/File:Sangeet_Bhojpuri.jpg" group-title="Music", SANGEET BHOJPURI
-
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=562400.m3u8
 #EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
 
 #EXTINF: -1 tvg-name="SANGIT BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGIT BANGLA
