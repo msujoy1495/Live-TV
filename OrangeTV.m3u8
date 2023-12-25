@@ -118,6 +118,23 @@ http://17.17.17.2/CH72-SP/tracks-v1a1/mono.m3u8
 
 
 
+
+#EXTINF: -1 tvg-name="BBC EARTH" tvg-logo="http://toffe.top/images/bbcearth.png" group-title="Information", BBC EARTH
+
+#EXTINF: -1 tvg-name="ANIMAL PLANET" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET
+
+#EXTINF: -1 tvg-name="DISCOVERY BANGLA" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY BANGLA
+
+#EXTINF: -1 tvg-name="NATIONAL GEOGRAPHY" tvg-logo="http://toffe.top/images/nationalgeo.png" group-title="Information", NATIONAL GEOGRAPHY
+
+#EXTINF: -1 tvg-name="WILD" tvg-logo="http://toffe.top/images/natgeo.png" group-title="Information", WILD
+
+#EXTINF: -1 tvg-name="" tvg-logo="http://toffe.top/images/travel.png" group-title="Information", TRAVEL XP
+
+
+
+
+
 #EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://en.wikipedia.org/wiki/Duronto_TV#/media/File:Duronto_TV_Logo.png" group-title="Kids", DURONTO TV
 
 #EXTINF: -1 tvg-name="CN" tvg-logo="http://toffe.top/images/cn.png" group-title="Kids", CN
