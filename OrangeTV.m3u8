@@ -26,19 +26,25 @@ http://17.17.17.2/CH72-SP/tracks-v1a1/mono.m3u8
 http://17.17.17.2/CH53-SP/tracks-v1a1/mono.m3u8
 
 
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Catagory", Chanal Name
 
 
 
+#EXTINF: -1 tvg-name="MOVIE BANGLA" tvg-logo="https://www.moviebangla.tv/images/moviebanglatv%20logo.png" group-title="Movies", MOVIE BANGLA
 
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Movies", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Movies", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Movies", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Movies", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Movies", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Movies", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Movies", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Movies", Chanal Name
+#EXTINF: -1 tvg-name="COLORS BANGLA CINAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/1050px-Colors_Bangla_Cinema.png" group-title="Movies", COLORS BANGLA CINAMA
+
+#EXTINF: -1 tvg-name="JASHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JASHA MOVIES
+
+#EXTINF: -1 tvg-name="& PICTURE" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURE
+
+#EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
+
+#EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
+
+#EXTINF: -1 tvg-name="MOVIES NOW" tvg-logo="http://toffe.top/images/moviesnow.png" group-title="Movies", MOVIES NOW
+
+#EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
+
 #EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Movies", Chanal Name
 #EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Movies", Chanal Name
 #EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Movies", Chanal Name
