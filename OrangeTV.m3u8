@@ -28,6 +28,9 @@ http://18.18.18.2/gazitv2/tracks-v1a1/mono.m3u8
 
 
 
+
+
+
 #EXTINF: -1 tvg-name="MOVIE BANGLA" tvg-logo="https://www.moviebangla.tv/images/moviebanglatv%20logo.png" group-title="Movies", MOVIE BANGLA
 
 #EXTINF: -1 tvg-name="COLORS BANGLA CINAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/1050px-Colors_Bangla_Cinema.png" group-title="Movies", COLORS BANGLA CINAMA
@@ -60,6 +63,9 @@ http://17.17.17.2/CH31-SP/tracks-v1a1/mono.m3u8
 
 
 
+
+
+
 #EXTINF: -1 tvg-name="EKATTOR TV" tvg-logo="http://toffe.top/images/ekattortv.png" group-title="News", EKATTOR TV
 
 #EXTINF: -1 tvg-name="NEWS 24" tvg-logo="http://toffe.top/images/news24.png" group-title="News", NEWS 24
@@ -80,8 +86,11 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF: -1 tvg-name="TV9 BANGLA" tvg-logo="https://en.wikipedia.org/wiki/TV9_Bangla#/media/File:TV9_Bangla_logo.jpg" group-title="News", TV9 BANGLA
 
-#EXTINF: -1 tvg-name="ZEE NEWS" tvg-logo="https://en.wikipedia.org/wiki/Zee_News#/media/File:Zee_news.svg" group-title="News", ZEE NEWS
+#EXTINF: -1 tvg-name="ZEE NEWS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VDAjSOb3b1JHQJsIQjBGxjG5qb_L5llCXGWd9W7ob6vE9O0Q-dJsyKC_El8DlyOl3Uf37TKMsyY0rU4S0ETYKKxuuW0OnK3VMH5J_Rp9f_5WDgvjlvJ-jMggefDC3BRUT63wx-cRnE1NvB_A-uiDHMN9RWWAx7JhKkt5cF3ZwJKV-uCKmfpjnsM8ZIVB/s2939/Zee-news-Logo-PNG_eur68d.png" group-title="News", ZEE NEWS
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF: -1 tvg-name="DWS" tvg-logo="http://toffe.top/images/dwtv.png" group-title="News", DW
+http://17.17.17.2/CH25-SP/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -111,15 +120,19 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
 
 
+
+
 #EXTINF: -1 tvg-name="SANGEET BHOJPURI" tvg-logo="https://en.wikipedia.org/wiki/Sangeet_Bhojpuri#/media/File:Sangeet_Bhojpuri.jpg" group-title="Music", SANGEET BHOJPURI
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=562400.m3u8
 #EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
-
+http://17.17.17.2/CH25-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SANGIT BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGIT BANGLA
 
 #EXTINF: -1 tvg-name="GB" tvg-logo="https://en.wikipedia.org/wiki/Gaan_Bangla#/media/File:Gaan_Bangla_Logo.png" group-title="Music", GB
 
 #EXTINF: -1 tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/MTV_Beats#/media/File:MTV_Beats_Logo.png" group-title="Music", MTV BEATS
+
+
 
 
 
@@ -157,14 +170,17 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://en.wikipedia.org/wiki/Duronto_TV#/media/File:Duronto_TV_Logo.png" group-title="Kids", DURONTO TV
 
 #EXTINF: -1 tvg-name="CN" tvg-logo="http://toffe.top/images/cn.png" group-title="Kids", CN
-
+http://17.17.17.2/CH42-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY YAY" tvg-logo="https://en.wikipedia.org/wiki/Sony_YAY!#/media/File:Sony_Yay_new.png" group-title="Kids", SONY YAY
 
 #EXTINF: -1 tvg-name="NICK JR" tvg-logo="http://toffe.top/images/nickjr.png" group-title="Kids", NICK JR
-
+http://17.17.17.2/CH44-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
 
 #EXTINF: -1 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
+
+
+
 
 
 
