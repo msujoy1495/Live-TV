@@ -4,6 +4,8 @@
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703503669/ei/1RKJZdr2Bb2m3LUPz5eVsAs/ip/103.120.6.71/id/pivpyRNKZvo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f5jTbTsMIANIhSG9LbtLjVh8-doNGmn-NETd6dPcPdi6tazNmA8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAICcRdV0EgmCkKAJ5lPMFFmnXB5MBqYmr2Prfr9JOxYiAiEAr3773mfYdSIRk-XIp-DN1SFdvw-La1pZcEHLrWA8ZVs%3D/file/index.m3u8
 #EXTINF: -1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1024px-Bangladesh_Television_Logo.svg.png" group-title="Entertainment", BTV
 
+#EXTINF: -1 tvg-name="NAGORIK TV" tvg-logo="http://172.16.29.242/logo/nagorik.png" group-title="Entertainment", NAGORIK TV
+http://172.16.29.242:8080/show/NAGORIK-TV/index.m3u8
 #EXTINF: -1 tvg-name="DIPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Entertainment", DIPTO TV
 http://17.17.17.2/CH75-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Chanal I" tvg-logo="http://toffe.top/images/Channel%20i1664976520.png" group-title="Entertainment", Chanal I
@@ -113,10 +115,11 @@ http://18.18.18.2/ch1/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name=" ENTER 10" tvg-logo="http://toffe.top/images/entertain.png" group-title="Indian Bangla", ENTER 10
 
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
-
+http://172.16.29.242:8080/show/Sony-Aath/index.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA
-
-
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/zeebangla-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
+http://172.16.29.242:8080/show/STAR-JALSHA/index.m3u8
 
 
 
@@ -227,7 +230,8 @@ https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/in
 
 
 
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
+#EXTINF: -1 tvg-name="COLORS BANGLA" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Indian Bangla", COLORS BANGLA
+https://yupptvcatchupire.yuppcdn.net/colorsbanglahd/28Dec2023/800/1703737807626_4000.ts
 #EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
 #EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
 #EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
