@@ -119,7 +119,8 @@ http://172.16.29.242:8080/show/Sony-Aath/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/zeebangla-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
 http://172.16.29.242:8080/show/STAR-JALSHA/index.m3u8
-
+#EXTINF: -1 tvg-name="SONY SET" tvg-logo="http://toffe.top/images/sonyent.png" group-title="Indian Bangla", SONNY SET
+http://103.132.181.118:82/play/a00h
 
 
 
@@ -128,8 +129,8 @@ http://172.16.29.242:8080/show/STAR-JALSHA/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=562400.m3u8
 #EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
 http://17.17.17.2/CH25-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="SANGIT BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGIT BANGLA
-
+#EXTINF: -1 tvg-name="SANGEET BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGEET BANGLA
+http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 #EXTINF: -1 tvg-name="GB" tvg-logo="https://en.wikipedia.org/wiki/Gaan_Bangla#/media/File:Gaan_Bangla_Logo.png" group-title="Music", GB
 
 #EXTINF: -1 tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/MTV_Beats#/media/File:MTV_Beats_Logo.png" group-title="Music", MTV BEATS
@@ -155,13 +156,15 @@ http://172.16.29.242:8080/show/National-Geographi-HD/index.m3u8
 #EXTINF: -1 tvg-name="" tvg-logo="http://toffe.top/images/travel.png" group-title="Information", TRAVEL XP
 http://172.16.29.242:8080/show/Travelxp/index.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY ENGLISH" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY ENGLISH
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+http://103.132.181.118:82/play/a007
 #EXTINF: -1 tvg-name="ANIMAL PLANET ENGLISH" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET ENGLISH
-http://172.16.29.242:8080/show/Animal-Planent/index.m3u8
+http://103.132.181.118:82/play/a00w
 #EXTINF: -1 tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png" group-title="Information", DISCOVERY SCIENCE
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF: -1 tvg-name="NASA TV" tvg-logo="https://i.pinimg.com/564x/4f/dc/ff/4fdcffd1b575fe3cf1733f38cb1c09de.jpg" group-title="Information", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF: -1 tvg-name="HISTORY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" group-title="Information", HISTORY TV
+http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
 
 
 
