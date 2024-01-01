@@ -132,7 +132,7 @@ http://17.17.17.2/CH25-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SANGEET BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGEET BANGLA
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 #EXTINF: -1 tvg-name="GB" tvg-logo="https://en.wikipedia.org/wiki/Gaan_Bangla#/media/File:Gaan_Bangla_Logo.png" group-title="Music", GB
-
+http://172.16.29.242:8080/show/Gaan-Bangla/index.m3u8
 #EXTINF: -1 tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/MTV_Beats#/media/File:MTV_Beats_Logo.png" group-title="Music", MTV BEATS
 
 
