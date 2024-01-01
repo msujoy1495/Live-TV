@@ -78,7 +78,7 @@ http://17.17.17.2/CH4-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="DBC NEWS" tvg-logo="http://toffe.top/images/dbc.png" group-title="News", DBC NEWS
 http://17.17.17.2/CH13-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="REPUBLIC BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" group-title="News", REPUBLIC BANGLA
-
+https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/main.m3u8
 #EXTINF: -1 tvg-name="CALCUTTA NEWS" tvg-logo="https://calcuttanews.tv/cnlogonew.png" group-title="News", CALCUTTA NEWS
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF: -1 tvg-name="ABP ANANDA" tvg-logo="https://en.wikipedia.org/wiki/ABP_Ananda#/media/File:ABP_Ananda_logo.svg" group-title="News", ABP ANANDA
