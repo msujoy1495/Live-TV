@@ -55,7 +55,7 @@ http://172.16.29.242:8080/show/STAR-MOVIES-HD/index.m3u8
 #EXTINF: -1 tvg-name="GOLDMINE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTPejj392fGoNbIVJPJYhDIFdpf598ISk-pelQS2VlMeN6XAWrXAY_h_FidnEwO6r8Bjny_U0xu6cC0gpQst-TLnYrWUPkRgxw2BwliA3G5vvU5y0mWFc0MC5QKQ2oyk3UI9fhVcvq5M0DLuIb8b6tmVEMFpA2lzPwXKjzjVTk2Cs8-BqUEvViPQrw7X6R/s320/Goldmines_Bollywood.png" group-title="Movies", GOLDMINE
 
 #EXTINF: -1 tvg-name="COLORS CINAPLEX" tvg-logo="http://toffe.top/images/colorscimeplex.png" group-title="Movies", COLORS CINAPLEX
-
+http://17.17.17.2/CH50-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD" tvg-logo="http://toffe.top/images/stargold.png" group-title="Movies", STAR GOLD
 http://172.16.29.242:8080/show/STAR-GOLD-HD/index.m3u8
 #EXTINF: -1 tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO
@@ -110,7 +110,7 @@ http://103.132.181.118:82/play/a00k
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
 http://18.18.18.2/ch1/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SUN BANGLA" tvg-logo="http://toffe.top/images/sunbangla.png" group-title="Indian Bangla", SUN BANGLA
-http://103.132.181.118:82/play/a00s
+http://17.17.17.2/CH33-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name=" ENTER 10" tvg-logo="http://toffe.top/images/entertain.png" group-title="Indian Bangla", ENTER 10
 https://dangalplaycdn.vidgyor.com/pub-iobanglakp3sff/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
@@ -144,9 +144,9 @@ http://172.16.29.242:8080/show/Gaan-Bangla/index.m3u8
 
 
 #EXTINF: -1 tvg-name="BBC EARTH" tvg-logo="http://toffe.top/images/bbcearth.png" group-title="Information", BBC EARTH
-
+http://17.17.17.2/CH58-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ANIMAL PLANET" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET
-http://172.16.29.242:8080/show/Animal-Planent/index.m3u8
+http://17.17.17.2/CH57-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY BANGLA" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY BANGLA
 http://172.16.29.242:8080/show/Discovery-HD/index.m3u8
 #EXTINF: -1 tvg-name="NATIONAL GEOGRAPHY" tvg-logo="http://toffe.top/images/nationalgeo.png" group-title="Information", NATIONAL GEOGRAPHY
@@ -232,19 +232,13 @@ https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/in
 
 
 
-#EXTINF: -1 tvg-name="COLORS BANGLA" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Indian Bangla", COLORS BANGLA
+#EXTINF: -1 tvg-name="COLORS BANGLA" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Other", COLORS BANGLA
 http://172.16.29.242:8080/show/COLORS-BANGLA/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
+#EXTINF: -1 tvg-name="GREEN TV" tvg-logo="http://toffe.top/images/greentv.png" group-title="Other", GREEN TV
+http://17.17.17.2/CH82-SP/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
 #EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
