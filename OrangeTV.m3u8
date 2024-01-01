@@ -165,6 +165,9 @@ https://dplus.gammacdn.workers.dev/videos/96.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF: -1 tvg-name="HISTORY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" group-title="Information", HISTORY TV
 http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
+#EXTINF: -1 tvg-name=",CGTN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTU9e6CMyDDZWQ7t41m8WRuijrJ42Gd2qWcFCfd_poelHhqmhVA8E5r6vQc71AoVhoFGy67ohIXG0NqzuSPuK7h7BCf1EeCGIjUpjJwDCzYK0IerD1CVwM-Pyi_SYwbdCQzAkmhuAYwp1W9cFivpXH1_9DN1hh3GoXHL80GSYr9jhAomDAY26weI8xbgZD/s1280/CGTN_Documentary.png" group-title="Information", ,CGTN
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cgtndoc.stream/live-orgin/cgtndoc.stream/chunks.m3u8
+
 
 
 
