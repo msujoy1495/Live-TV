@@ -106,7 +106,7 @@ http://17.17.17.2/CH17-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="COLORS BANGLA" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Indian Bangla", COLORS BANGLA
 http://17.17.17.2/CH15-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA HD
-http://103.132.181.118:82/play/a00k
+http://103.141.2.37:25461/live/web/web/602.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
 http://18.18.18.2/ch1/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SUN BANGLA" tvg-logo="http://toffe.top/images/sunbangla.png" group-title="Indian Bangla", SUN BANGLA
@@ -114,11 +114,11 @@ http://17.17.17.2/CH33-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name=" ENTER 10" tvg-logo="http://toffe.top/images/entertain.png" group-title="Indian Bangla", ENTER 10
 https://dangalplaycdn.vidgyor.com/pub-iobanglakp3sff/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
-http://172.16.29.242:8080/show/Sony-Aath/index.m3u8
+http://103.141.2.37:25461/live/web/web/591.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/zeebangla-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
-http://172.16.29.242:8080/show/STAR-JALSHA/index.m3u8
+http://103.141.2.37:25461/live/web/web/603.m3u8
 #EXTINF: -1 tvg-name="SONY SET" tvg-logo="http://toffe.top/images/sonyent.png" group-title="Indian Bangla", SONNY SET
 http://103.132.181.118:82/play/a00h
 
@@ -128,9 +128,9 @@ http://103.132.181.118:82/play/a00h
 #EXTINF: -1 tvg-name="SANGEET BHOJPURI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrJqvFneIVQJmCSGZyMQ_uH4DJWtrYMK7YxZrJ75hqLLmtO83L1GJQWgf6aN7luIO00kk-5vMX6tVYovvx-ITKf3xf1eOfdnTUHN1mhJ8TIVW9WqsccWv-BYbLyX3Sj3YnV05JcE7YYCZzE37PKDo7ezQkOVVat9PLtFloNQoRlTRUGYTnMkf_y08ZM76g/s204/images%20(2).jpg" group-title="Music", SANGEET BHOJPURI
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=562400.m3u8
 #EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
-http://17.17.17.2/CH25-SP/tracks-v1a1/mono.m3u8
+http://103.141.2.37:25461/live/web/web/557.m3u8
 #EXTINF: -1 tvg-name="SANGEET BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGEET BANGLA
-http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
+http://103.141.2.37:25461/live/web/web/604.m3u8
 #EXTINF: -1 tvg-name="GB" tvg-logo="http://172.16.29.242/assets/images/gaanbangla.png" group-title="Music", GB
 http://172.16.29.242:8080/show/Gaan-Bangla/index.m3u8
 #EXTINF: -1 tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/MTV_Beats#/media/File:MTV_Beats_Logo.png" group-title="Music", MTV BEATS
@@ -148,13 +148,13 @@ http://17.17.17.2/CH58-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ANIMAL PLANET" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET
 http://103.141.2.37:25461/live/web/web/566.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY BANGLA" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY BANGLA
-http://172.16.29.242:8080/show/Discovery-HD/index.m3u8
+http://103.141.2.37:25461/live/web/web/540.m3u8
 #EXTINF: -1 tvg-name="NATIONAL GEOGRAPHY" tvg-logo="http://toffe.top/images/nationalgeo.png" group-title="Information", NATIONAL GEOGRAPHY
-http://172.16.29.242:8080/show/National-Geographi-HD/index.m3u8
+http://103.141.2.37:25461/live/web/web/568.m3u8
 #EXTINF: -1 tvg-name="WILD" tvg-logo="http://toffe.top/images/natgeo.png" group-title="Information", WILD
-
+http://103.141.2.37:25461/live/web/web/576.m3u8
 #EXTINF: -1 tvg-name="TRAVEL XP" tvg-logo="http://toffe.top/images/travel.png" group-title="Information", TRAVEL XP
-http://172.16.29.242:8080/show/Travelxp/index.m3u8
+http://103.141.2.37:25461/live/web/web/593.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY ENGLISH" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY ENGLISH
 http://103.132.181.118:82/play/a007
 #EXTINF: -1 tvg-name="ANIMAL PLANET ENGLISH" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET ENGLISH
@@ -164,7 +164,7 @@ https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF: -1 tvg-name="NASA TV" tvg-logo="https://i.pinimg.com/564x/4f/dc/ff/4fdcffd1b575fe3cf1733f38cb1c09de.jpg" group-title="Information", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF: -1 tvg-name="HISTORY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" group-title="Information", HISTORY TV
-http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
+
 #EXTINF: -1 tvg-name=",CGTN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTU9e6CMyDDZWQ7t41m8WRuijrJ42Gd2qWcFCfd_poelHhqmhVA8E5r6vQc71AoVhoFGy67ohIXG0NqzuSPuK7h7BCf1EeCGIjUpjJwDCzYK0IerD1CVwM-Pyi_SYwbdCQzAkmhuAYwp1W9cFivpXH1_9DN1hh3GoXHL80GSYr9jhAomDAY26weI8xbgZD/s1280/CGTN_Documentary.png" group-title="Information", ,CGTN
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cgtndoc.stream/live-orgin/cgtndoc.stream/chunks.m3u8
 
