@@ -128,6 +128,13 @@ http://172.16.29.242:8080/show/5053/index.m3u8
 #EXTINF: -1 tvg-name="SONY SET" tvg-logo="http://toffe.top/images/sonyent.png" group-title="Indian Bangla", SONNY SET
 http://103.132.181.118:82/play/a00h
 
+#EXTINF: -1 tvg-name="STAR PLUS" tvg-logo="http://172.16.29.242/assets/images/starplus.png" group-title="Indian Bangla", STAR PLUS
+http://172.16.29.242:8080/show/5030/index.m3u8
+
+
+
+
+
 
 
 
