@@ -72,7 +72,9 @@ http://go.justflix.tv:80/client120/aarab.amar/185
 
 
 #EXTINF: -1 tvg-name="EKATTOR TV" tvg-logo="http://toffe.top/images/ekattortv.png" group-title="News", EKATTOR TV
-http://103.141.2.37:25461/live/web/web/594.m3u8
+http://172.16.29.242:8080/show/4017/index.m3u8
+#EXTINF: -1 tvg-name="JAMUNA TV" tvg-logo="http://172.16.29.242/assets/images/jamunatv.png" group-title="News", JAMUNA TV
+http://172.16.29.242:8080/show/4005/index.m3u8
 #EXTINF: -1 tvg-name="NEWS 24" tvg-logo="http://toffe.top/images/news24.png" group-title="News", NEWS 24
 http://17.17.17.2/CH8-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
