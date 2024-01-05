@@ -20,7 +20,7 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF: -1 tvg-name="MASRANGA TV" tvg-logo="http://toffe.top/images/Masranga.png" group-title="Entertainment", MASRANGA TV
 http://17.17.17.2/CH3-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="GREEN TV" tvg-logo="http://toffe.top/images/greentv.png" group-title="Entertainment", GREEN TV
-http://17.17.17.2/CH82-SP/tracks-v1a1/mono.m3u8greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+
 #EXTINF: -1 tvg-name="GTV" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV
 http://172.16.29.242:8080/show/5008/index.m3u8
 
@@ -132,11 +132,11 @@ http://103.132.181.118:82/play/a00h
 #EXTINF: -1 tvg-name="SANGEET BHOJPURI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrJqvFneIVQJmCSGZyMQ_uH4DJWtrYMK7YxZrJ75hqLLmtO83L1GJQWgf6aN7luIO00kk-5vMX6tVYovvx-ITKf3xf1eOfdnTUHN1mhJ8TIVW9WqsccWv-BYbLyX3Sj3YnV05JcE7YYCZzE37PKDo7ezQkOVVat9PLtFloNQoRlTRUGYTnMkf_y08ZM76g/s204/images%20(2).jpg" group-title="Music", SANGEET BHOJPURI
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=562400.m3u8
 #EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
-http://103.141.2.37:25461/live/web/web/557.m3u8
+http://172.16.29.242:8080/show/4122/index.m3u8
 #EXTINF: -1 tvg-name="SANGEET BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGEET BANGLA
-http://103.141.2.37:25461/live/web/web/604.m3u8
+http://172.16.29.242:8080/show/4120/index.m3u8
 #EXTINF: -1 tvg-name="GB" tvg-logo="http://172.16.29.242/assets/images/gaanbangla.png" group-title="Music", GB
-http://172.16.29.242:8080/show/Gaan-Bangla/index.m3u8
+http://172.16.29.242:8080/show/4018/index.m3u8
 #EXTINF: -1 tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/MTV_Beats#/media/File:MTV_Beats_Logo.png" group-title="Music", MTV BEATS
 
 
