@@ -20,7 +20,7 @@ http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF: -1 tvg-name="MASRANGA TV" tvg-logo="http://toffe.top/images/Masranga.png" group-title="Entertainment", MASRANGA TV
 http://17.17.17.2/CH3-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="GREEN TV" tvg-logo="http://toffe.top/images/greentv.png" group-title="Entertainment", GREEN TV
-
+https://tvs1.aynaott.com/greentv/tracks-v1a1/mono.m3u8?hdnts=st%3D1704532736%7Eexp%3D1704575936%7Eacl%3D%2F%2A%7Edata%3D2a02%3A4780%3Abad%3A9%3Afced%3A1ff%3Afe09%3A84-WEB%7Ehmac%3D4ea2d721643770cadfe9bab5f9ff5971d19961ed0a4c2744c8a6c80debda3312
 #EXTINF: -1 tvg-name="GTV" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV
 http://172.16.29.242:8080/show/5008/index.m3u8
 
