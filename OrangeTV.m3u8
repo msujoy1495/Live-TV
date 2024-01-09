@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF: -1 tvg-name="BTV WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Entertainment", BTV WORLD
-https://www.youtube.com/watch?v=TPcmrPrygDc
+
 #EXTINF: -1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1024px-Bangladesh_Television_Logo.svg.png" group-title="Entertainment", BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF: -1 tvg-name="NAGORIK TV" tvg-logo="http://172.16.29.242/assets/images/nagorik.png" group-title="Entertainment", NAGORIK TV
@@ -172,14 +172,24 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
 #EXTINF: -1 tvg-name="ANIMAL PLANET ENGLISH" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET ENGLISH
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF: -1 tvg-name="NAT GEO WILD" tvg-logo="http://toffe.top/images/natgeo.png" group-title="Information", NAT GEO WILD
+https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png" group-title="Information", DISCOVERY SCIENCE
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 #EXTINF: -1 tvg-name="NASA TV" tvg-logo="https://i.pinimg.com/564x/4f/dc/ff/4fdcffd1b575fe3cf1733f38cb1c09de.jpg" group-title="Information", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF: -1 tvg-name="NASA Media TV" tvg-logo="https://i.pinimg.com/564x/4f/dc/ff/4fdcffd1b575fe3cf1733f38cb1c09de.jpg" group-title="Information", NASA Media TV
+https://nasa-midea-tv.mssarena71.workers.dev/stream/NASA/master.m3u8
 #EXTINF: -1 tvg-name="HISTORY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" group-title="Information", HISTORY TV
 https://bdtubelive.xyz/bdix.m3u8?id=history-tv
-#EXTINF: -1 tvg-name=",CGTN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTU9e6CMyDDZWQ7t41m8WRuijrJ42Gd2qWcFCfd_poelHhqmhVA8E5r6vQc71AoVhoFGy67ohIXG0NqzuSPuK7h7BCf1EeCGIjUpjJwDCzYK0IerD1CVwM-Pyi_SYwbdCQzAkmhuAYwp1W9cFivpXH1_9DN1hh3GoXHL80GSYr9jhAomDAY26weI8xbgZD/s1280/CGTN_Documentary.png" group-title="Information", ,CGTN
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cgtndoc.stream/live-orgin/cgtndoc.stream/chunks.m3u8
+#EXTINF: -1 tvg-name="CGTN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTU9e6CMyDDZWQ7t41m8WRuijrJ42Gd2qWcFCfd_poelHhqmhVA8E5r6vQc71AoVhoFGy67ohIXG0NqzuSPuK7h7BCf1EeCGIjUpjJwDCzYK0IerD1CVwM-Pyi_SYwbdCQzAkmhuAYwp1W9cFivpXH1_9DN1hh3GoXHL80GSYr9jhAomDAY26weI8xbgZD/s1280/CGTN_Documentary.png" group-title="Information", ,CGTN
+
+
+#EXTINF: -#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Information", 
+#EXTINF: -#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Information", 
+#EXTINF: -#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Information", 
+#EXTINF: -#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Information", 
+#EXTINF: -#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Information", 
 
 
 
