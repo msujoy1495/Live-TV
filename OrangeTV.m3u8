@@ -70,7 +70,8 @@ http://go.justflix.tv:80/client120/aarab.amar/185
 
 
 
-
+#EXTINF: -1 tvg-name="ATN NEWS" tvg-logo="http://toffe.top/images/atnnews.png" group-title="Entertainment", ATN NEWS
+https://atn-news.mssarena71.workers.dev/stream/ATNNewsLive/master.m3u8
 #EXTINF: -1 tvg-name="EKATTOR TV" tvg-logo="http://toffe.top/images/ekattortv.png" group-title="News", EKATTOR TV
 http://172.16.29.242:8080/show/4017/index.m3u8
 #EXTINF: -1 tvg-name="JAMUNA TV" tvg-logo="http://172.16.29.242/assets/images/jamunatv.png" group-title="News", JAMUNA TV
@@ -84,17 +85,17 @@ http://172.16.29.242:8080/show/4010/index.m3u8
 #EXTINF: -1 tvg-name="DBC NEWS" tvg-logo="http://toffe.top/images/dbc.png" group-title="News", DBC NEWS
 http://17.17.17.2/CH13-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="REPUBLIC BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" group-title="News", REPUBLIC BANGLA
-https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/main.m3u8
+https://republic-bangla.mssarena71.workers.dev/stream/republicbangla/master.m3u8
 #EXTINF: -1 tvg-name="CALCUTTA NEWS" tvg-logo="https://calcuttanews.tv/cnlogonew.png" group-title="News", CALCUTTA NEWS
 https://calcutta-news.mssarena71.workers.dev/stream/calcuttanews/master.m3u8
 #EXTINF: -1 tvg-name="ABP ANANDA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8_iDvhVFIUbJiYGcKfMMAiwDIV01ZvbHa2QH6AP9U1znTjJ7CP65AFXfnBcdYv5BMxFuqe9F-4AORYDs8GADBmooroK3qLEouMC0CzWbP-ha8Sp-8Dl7z5IOeCbrY_Z8nZynkKr1gIGvkLn4xx35_NMykYxd2eyKoNMZ025Z4wRErmhHIwulzGOPnGHHD/s500/images.jpg" group-title="News", ABP ANANDA
 https://abp-ananda.mssarena71.workers.dev/stream/abpanandatv/master.m3u8
 #EXTINF: -1 tvg-name="ZEE 24 GHANTA" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Channel-Logo_zee-24-ghanta_280-X-200.jpg" group-title="News", ZEE 24 GHANTA
-https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+https://zee28-ghanta.mssarena71.workers.dev/stream/Zee24Ghanta/master.m3u8
 #EXTINF: -1 tvg-name="TV9 BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjnydA7f2o0kgsXPG4N3tlk4m8PdqMfpUMHC84At31m0-ClX8IkAXB5qlAs6n2gJxI36OOXrE389ezFzgEnY_cx0WrRzJIMKNvhzb0YCTSadW-2aLeH93z7FqzYXG4OpEXtmeuQPzfRWdNNIq45wNSSLZ5GMBiP2EDcAtIIkcN7wfu6vQQPxxUPhN80J8L/s588/images%20(1).jpg" group-title="News", TV9 BANGLA
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+https://tv9-bangla.mssarena71.workers.dev/stream/TV9BanglaLive/master.m3u8
 #EXTINF: -1 tvg-name="ZEE NEWS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VDAjSOb3b1JHQJsIQjBGxjG5qb_L5llCXGWd9W7ob6vE9O0Q-dJsyKC_El8DlyOl3Uf37TKMsyY0rU4S0ETYKKxuuW0OnK3VMH5J_Rp9f_5WDgvjlvJ-jMggefDC3BRUT63wx-cRnE1NvB_A-uiDHMN9RWWAx7JhKkt5cF3ZwJKV-uCKmfpjnsM8ZIVB/s2939/Zee-news-Logo-PNG_eur68d.png" group-title="News", ZEE NEWS
-https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+https://zee-news.mssarena71.workers.dev/stream/zeenews/master.m3u8
 #EXTINF: -1 tvg-name="DW" tvg-logo="http://toffe.top/images/dwtv.png" group-title="News", DW
 https://dw-news.mssarena71.workers.dev/stream/dwnews/master.m3u8
 #EXTINF: -1 tvg-name="NDTV" tvg-logo="https://i.ndtvimg.com/i/2016-11/ndtv-india-logo_650x400_71478247761.jpg" group-title="News", NDTV
