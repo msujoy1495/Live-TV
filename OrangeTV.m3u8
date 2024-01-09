@@ -73,17 +73,17 @@ http://go.justflix.tv:80/client120/aarab.amar/185
 #EXTINF: -1 tvg-name="ATN NEWS" tvg-logo="http://toffe.top/images/atnnews.png" group-title="Entertainment", ATN NEWS
 https://atn-news.mssarena71.workers.dev/stream/ATNNewsLive/master.m3u8
 #EXTINF: -1 tvg-name="EKATTOR TV" tvg-logo="http://toffe.top/images/ekattortv.png" group-title="News", EKATTOR TV
-http://172.16.29.242:8080/show/4017/index.m3u8
+https://ekattor-tv.mssarena71.workers.dev/stream/EkattorTelevision/master.m3u8
 #EXTINF: -1 tvg-name="JAMUNA TV" tvg-logo="http://172.16.29.242/assets/images/jamunatv.png" group-title="News", JAMUNA TV
-http://172.16.29.242:8080/show/4005/index.m3u8
+https://jamuna-tv.mssarena71.workers.dev/stream/JamunaTVbd/master.m3u8
 #EXTINF: -1 tvg-name="NEWS 24" tvg-logo="http://toffe.top/images/news24.png" group-title="News", NEWS 24
-http://17.17.17.2/CH8-SP/tracks-v1a1/mono.m3u8
+https://news24.mssarena71.workers.dev/stream/dailynews24x7daily/master.m3u8
 #EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
-http://17.17.17.2/CH9-SP/tracks-v1a1/mono.m3u8
+https://independent-tv.mssarena71.workers.dev/stream/IndependentTelevision/master.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
-http://172.16.29.242:8080/show/4010/index.m3u8
+https://somoy-tv.mssarena71.workers.dev/stream/somoynews360/master.m3u8
 #EXTINF: -1 tvg-name="DBC NEWS" tvg-logo="http://toffe.top/images/dbc.png" group-title="News", DBC NEWS
-http://17.17.17.2/CH13-SP/tracks-v1a1/mono.m3u8
+https://dbc-news.mssarena71.workers.dev/stream/dbcnewstv/master.m3u8
 #EXTINF: -1 tvg-name="REPUBLIC BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" group-title="News", REPUBLIC BANGLA
 https://republic-bangla.mssarena71.workers.dev/stream/republicbangla/master.m3u8
 #EXTINF: -1 tvg-name="CALCUTTA NEWS" tvg-logo="https://calcuttanews.tv/cnlogonew.png" group-title="News", CALCUTTA NEWS
