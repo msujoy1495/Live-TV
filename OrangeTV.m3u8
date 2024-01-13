@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF: -1 tvg-name="BTV WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Entertainment", BTV WORLD
-
+https://tvs3.aynaott.com/rEBp38Ax/index.m3u8?hdnts=st=1705130345~exp=1705173545~acl=/*~data=2a01:4ff:f0:4a83::1-WEB~hmac=ca93f970137de47423cd0adf5ef3030ce4da95d043f273fc84b6004b70dc8c9d
 #EXTINF: -1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1024px-Bangladesh_Television_Logo.svg.png" group-title="Entertainment", BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF: -1 tvg-name="NAGORIK TV" tvg-logo="http://172.16.29.242/assets/images/nagorik.png" group-title="Entertainment", NAGORIK TV
