@@ -1,28 +1,28 @@
 #EXTM3U
 #EXTINF: -1 tvg-name="BTV WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Entertainment", BTV WORLD
-
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=2&e=.m3u8
 #EXTINF: -1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1024px-Bangladesh_Television_Logo.svg.png" group-title="Entertainment", BTV
-
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=1&e=.m3u8
 #EXTINF: -1 tvg-name="NAGORIK TV" tvg-logo="http://172.16.29.242/assets/images/nagorik.png" group-title="Entertainment", NAGORIK TV
-http://172.16.29.242:8080/show/5007/index.m3u8
+
 #EXTINF: -1 tvg-name="DIPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Entertainment", DIPTO TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
 #EXTINF: -1 tvg-name="Chanal I" tvg-logo="http://toffe.top/images/Channel%20i1664976520.png" group-title="Entertainment", Chanal I
-http://172.16.29.242:8080/show/4016/index.m3u8
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=6&e=.m3u8
 #EXTINF: -1 tvg-name="SATV" tvg-logo="http://toffe.top/images/satv.png" group-title="Entertainment", SATV
-https://bdtubelive.xyz/bdix.m3u8?id=ekhon-tv
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=25&e=.m3u8
 #EXTINF: -1 tvg-name="MY TV" tvg-logo="http://toffe.top/images/mytv.png" group-title="Entertainment", MY TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
+https://bongohub.pw/bioscope.php?cc=my-tv
 #EXTINF: -1 tvg-name="BOISAKHI TV" tvg-logo="http://toffe.top/images/boisakai.png" group-title="Entertainment", BOISAKHI TV
 http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
 #EXTINF: -1 tvg-name="ATN BANGLA" tvg-logo="http://toffe.top/images/atnbangla.png" group-title="Entertainment", ATN BANGLA
-https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=9&e=.m3u8
 #EXTINF: -1 tvg-name="MASRANGA TV" tvg-logo="http://toffe.top/images/Masranga.png" group-title="Entertainment", MASRANGA TV
-https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=11&e=.m3u8
 #EXTINF: -1 tvg-name="GREEN TV" tvg-logo="http://toffe.top/images/greentv.png" group-title="Entertainment", GREEN TV
-https://tvs1.aynaott.com/greentv/tracks-v1a1/mono.m3u8?hdnts=st%3D1704532736%7Eexp%3D1704575936%7Eacl%3D%2F%2A%7Edata%3D2a02%3A4780%3Abad%3A9%3Afced%3A1ff%3Afe09%3A84-WEB%7Ehmac%3D4ea2d721643770cadfe9bab5f9ff5971d19961ed0a4c2744c8a6c80debda3312
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=35&e=.m3u8
 #EXTINF: -1 tvg-name="GTV" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV
-http://172.16.29.242:8080/show/5008/index.m3u8
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=18&e=.m3u8
 
 
 
@@ -35,29 +35,29 @@ http://172.16.29.242:8080/show/5008/index.m3u8
 
 
 #EXTINF: -1 tvg-name="Tara Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_TV_Derana.jpg" group-title="Movies", TARA TV
-http://17.17.17.2/CH15-SP/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-name="MOVIE BANGLA" tvg-logo="https://www.moviebangla.tv/images/moviebanglatv%20logo.png" group-title="Movies", MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF: -1 tvg-name="COLORS BANGLA CINAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/1050px-Colors_Bangla_Cinema.png" group-title="Movies", COLORS BANGLA CINAMA
-
-#EXTINF: -1 tvg-name="JASHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JASHA MOVIES
-http://172.16.29.242:8080/show/5054/index.m3u8
+https://bongohub.pw/bioscope.php?cc=colors-bangla-cinema
+#EXTINF: -1 tvg-name="JALSHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JALSHA MOVIES
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155771&extension=ts&play_token=otM0DQF4Ff
 #EXTINF: -1 tvg-name="& PICTURE" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURE
-http://172.16.29.242:8080/show/5039/index.m3u8
+
 #EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 #EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
-http://172.16.29.242:8080/show/5022/index.m3u8
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=74&e=.m3u8
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Movies", SONY MAX
 http://17.17.17.2/CH21-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ZEE CINEMA" tvg-logo="http://toffe.top/images/zeecinema.jpg" group-title="Movies", ZEE CINEMA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF: -1 tvg-name="MOVIES NOW" tvg-logo="http://toffe.top/images/moviesnow.png" group-title="Movies", MOVIES NOW
-
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=109&e=.m3u8
 #EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
-http://172.16.29.242:8080/show/5021/index.m3u8
+http://17.17.17.2/CH35-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="GOLDMINE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTPejj392fGoNbIVJPJYhDIFdpf598ISk-pelQS2VlMeN6XAWrXAY_h_FidnEwO6r8Bjny_U0xu6cC0gpQst-TLnYrWUPkRgxw2BwliA3G5vvU5y0mWFc0MC5QKQ2oyk3UI9fhVcvq5M0DLuIb8b6tmVEMFpA2lzPwXKjzjVTk2Cs8-BqUEvViPQrw7X6R/s320/Goldmines_Bollywood.png" group-title="Movies", GOLDMINE
-
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=154&e=.m3u8
 #EXTINF: -1 tvg-name="COLORS CINAPLEX" tvg-logo="http://toffe.top/images/colorscimeplex.png" group-title="Movies", COLORS CINAPLEX
 http://17.17.17.2/CH50-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD" tvg-logo="http://toffe.top/images/stargold.png" group-title="Movies", STAR GOLD
@@ -268,12 +268,24 @@ https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/in
 
 
 
+
+
+
+
+
+
+
+
+
+
 #EXTINF: -1 tvg-name="COLORS BANGLA" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Other", COLORS BANGLA
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF: -1 tvg-name="GREEN TV" tvg-logo="http://toffe.top/images/greentv.png" group-title="Other", GREEN TV
 http://17.17.17.2/CH82-SP/tracks-v1a1/mono.m3u8
-
-
+#EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Other", SONY MAX
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=71&e=.m3u8
+#EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=74&e=.m3u8
 
 
 #EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
