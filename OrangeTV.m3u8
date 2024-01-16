@@ -225,9 +225,9 @@ https://bongohub.pw/bioscope.php?cc=nickelodeon
 
 
 
-#EXTINF: -1 tvg-name="LIVE SPORTS" tvg-logo="http://toffe.top/images/live.png" group-title="Entertainment", LIVE SPORTS
+#EXTINF: -1 tvg-name="LIVE SPORTS" tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS
 http://17.17.17.2/CH69-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Entertainment", T SPORTS
+#EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Sports", T SPORTS
 http://17.17.17.2/CH53-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 1" tvg-logo="http://toffe.top/images/sonyten1.png" group-title="Sports", SONY SPORTS 1
 http://17.17.17.2/CH29-SP/tracks-v1a1/mono.m3u8
@@ -284,10 +284,19 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.
 http://17.17.17.2/CH82-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Other", SONY MAX
 https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=71&e=.m3u8
-#EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
+#EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Other", SONY PIX
 https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=74&e=.m3u8
-#EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
+#EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Other", SONNY AATH
 https://bongohub.pw/bioscope.php?cc=sony-aath-live
+#EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Other", T SPORTS
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=27&e=.m3u8
+#EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=79&e=.m3u8
+#EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
+
+#EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
+https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=43&e=.m3u8
+
 
 #EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
 #EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
