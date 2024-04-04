@@ -162,15 +162,15 @@ https://tv5.hoichoi24.com/1110/tracks-v1a1/mono.m3u8
 
 
 #EXTINF: -1 tvg-name="BBC EARTH" tvg-logo="http://toffe.top/images/bbcearth.png" group-title="Information", BBC EARTH
-
+http://172.16.29.242:8080/show/5038/index.m3u8
 #EXTINF: -1 tvg-name="ANIMAL PLANET" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET
-
+http://172.16.29.242:8080/show/5025/index.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY BANGLA" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY BANGLA
-
+http://172.16.29.242:8080/show/5026/index.m3u8
 #EXTINF: -1 tvg-name="NATIONAL GEOGRAPHY" tvg-logo="http://toffe.top/images/nationalgeo.png" group-title="Information", NATIONAL GEOGRAPHY
-
+http://172.16.29.242:8080/show/5036/index.m3u8
 #EXTINF: -1 tvg-name="WILD" tvg-logo="http://toffe.top/images/natgeo.png" group-title="Information", WILD
-
+http://172.16.29.242:8080/show/5027/index.m3u8
 #EXTINF: -1 tvg-name="TRAVEL XP" tvg-logo="http://toffe.top/images/travel.png" group-title="Information", TRAVEL XP
 
 #EXTINF: -1 tvg-name="DISCOVERY ENGLISH" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY ENGLISH
