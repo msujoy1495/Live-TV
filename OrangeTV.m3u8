@@ -228,7 +228,7 @@ http://172.17.50.112/live/antbd1004/index.m3u8
 #EXTINF: -1 tvg-name="LIVE SPORTS" tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS
 http://172.16.29.242:8080/hls/sports4/index.m3u8
 #EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Sports", T SPORTS
-http://17.17.17.2/CH53-SP/tracks-v1a1/mono.m3u8
+https://live-cdn.tsports.com/live-02/master_1920.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 1" tvg-logo="http://toffe.top/images/sonyten1.png" group-title="Sports", SONY SPORTS 1
 http://172.16.29.242:8080/show/5056/index.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 2" tvg-logo="http://toffe.top/images/sonyten2.png" group-title="Sports", SONY SPORTS 2
