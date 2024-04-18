@@ -6,7 +6,7 @@
 #EXTINF: -1 tvg-name="NAGORIK TV" tvg-logo="http://172.16.29.242/assets/images/nagorik.png" group-title="Entertainment", NAGORIK TV
 
 #EXTINF: -1 tvg-name="DIPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Entertainment", DIPTO TV
-https://tv5.hoichoi24.com/1105/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-name="Chanal I" tvg-logo="http://toffe.top/images/Channel%20i1664976520.png" group-title="Entertainment", Chanal I
 
 #EXTINF: -1 tvg-name="SATV" tvg-logo="http://toffe.top/images/satv.png" group-title="Entertainment", SATV
@@ -55,7 +55,7 @@ https://tv5.hoichoi24.com/1105/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="MOVIES NOW" tvg-logo="http://toffe.top/images/moviesnow.png" group-title="Movies", MOVIES NOW
 
 #EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
-
+http://172.17.50.112/live/antbd1003/index.m3u8
 #EXTINF: -1 tvg-name="GOLDMINE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTPejj392fGoNbIVJPJYhDIFdpf598ISk-pelQS2VlMeN6XAWrXAY_h_FidnEwO6r8Bjny_U0xu6cC0gpQst-TLnYrWUPkRgxw2BwliA3G5vvU5y0mWFc0MC5QKQ2oyk3UI9fhVcvq5M0DLuIb8b6tmVEMFpA2lzPwXKjzjVTk2Cs8-BqUEvViPQrw7X6R/s320/Goldmines_Bollywood.png" group-title="Movies", GOLDMINE
 
 #EXTINF: -1 tvg-name="COLORS CINAPLEX" tvg-logo="http://toffe.top/images/colorscimeplex.png" group-title="Movies", COLORS CINAPLEX
@@ -112,7 +112,7 @@ https://tv5.hoichoi24.com/1105/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="AKASH AATH" tvg-logo="https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE#/media/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Indian Bangla", AKASH AATH
 
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
-http://103.107.79.87:8080/CH8110SD06/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-name="COLORS BANGLA" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Indian Bangla", COLORS BANGLA
 
 #EXTINF: -1 tvg-name="ZEE BANGLA" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA HD
@@ -148,7 +148,7 @@ https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SANGEET BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGEET BANGLA
 
 #EXTINF: -1 tvg-name="GB" tvg-logo="http://172.16.29.242/assets/images/gaanbangla.png" group-title="Music", GB
-h
+
 #EXTINF: -1 tvg-name="RTV MUSIC" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png" group-title="Music", RTV MUSIC
 
 #EXTINF: -1 tvg-name="MTV BEATS" tvg-logo="https://en.wikipedia.org/wiki/MTV_Beats#/media/File:MTV_Beats_Logo.png" group-title="Music", MTV BEATS
@@ -215,7 +215,7 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF: -1 tvg-name="NICK JR" tvg-logo="http://toffe.top/images/nickjr.png" group-title="Kids", NICK JR
 
 #EXTINF: -1 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
-
+http://172.17.50.112/live/antbd1004/index.m3u8
 
 
 
@@ -225,7 +225,7 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 
 #EXTINF: -1 tvg-name="LIVE SPORTS" tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS
-
+http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Sports", T SPORTS
 https://live-cdn.tsports.com/live-02/master_1920.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 1" tvg-logo="http://toffe.top/images/sonyten1.png" group-title="Sports", SONY SPORTS 1
@@ -294,9 +294,9 @@ http://172.17.50.112/live/antbd1002/index.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
 http://172.17.50.112/live/antbd1001/index.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
-
+http://172.17.50.112/live/antbd1001/index.m3u8
 #EXTINF: -1 tvg-name="WIllOW XTRA" tvg-logo="Logo" group-title="Other", WIllOW XTRA
-https://bbm.zcast720.com:8088/hls/astrocric.m3u8?md5=elqev3XUk_NaFsVLVgOOnw&expires=1712503388
+
 
 
 
