@@ -8,7 +8,7 @@
 #EXTINF: -1 tvg-name="DIPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Entertainment", DIPTO TV
 
 #EXTINF: -1 tvg-name="Chanal I" tvg-logo="http://toffe.top/images/Channel%20i1664976520.png" group-title="Entertainment", Chanal I
-
+https://chanal-i.mssarena71.workers.dev/stream/ChanneliNews/master.m3u8
 #EXTINF: -1 tvg-name="SATV" tvg-logo="http://toffe.top/images/satv.png" group-title="Entertainment", SATV
 
 #EXTINF: -1 tvg-name="MY TV" tvg-logo="http://toffe.top/images/mytv.png" group-title="Entertainment", MY TV
@@ -71,37 +71,37 @@ http://172.17.50.112/live/antbd1003/index.m3u8
 
 
 #EXTINF: -1 tvg-name="ATN NEWS" tvg-logo="http://toffe.top/images/atnnews.png" group-title="Entertainment", ATN NEWS
-
+https://atn-news.mssarena71.workers.dev/stream/ATNNewsLive/master.m3u8
 #EXTINF: -1 tvg-name="EKATTOR TV" tvg-logo="http://toffe.top/images/ekattortv.png" group-title="News", EKATTOR TV
-
+https://ekattor-tv.mssarena71.workers.dev/stream/EkattorTelevision/master.m3u8
 #EXTINF: -1 tvg-name="JAMUNA TV" tvg-logo="http://172.16.29.242/assets/images/jamunatv.png" group-title="News", JAMUNA TV
-
+https://jamuna-tv.mssarena71.workers.dev/stream/JamunaTVbd/master.m3u8
 #EXTINF: -1 tvg-name="NEWS 24" tvg-logo="http://toffe.top/images/news24.png" group-title="News", NEWS 24
 
 #EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
-
+https://independent-tv.mssarena71.workers.dev/stream/IndependentTelevision/master.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
-
+https://somoy-tv.mssarena71.workers.dev/stream/somoynews360/master.m3u8
 #EXTINF: -1 tvg-name="DBC NEWS" tvg-logo="http://toffe.top/images/dbc.png" group-title="News", DBC NEWS
-
+https://dbc-news.mssarena71.workers.dev/stream/dbcnewstv/master.m3u8
 #EXTINF: -1 tvg-name="REPUBLIC BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" group-title="News", REPUBLIC BANGLA
-
+https://republic-bangla.mssarena71.workers.dev/stream/republicbangla/master.m3u8
 #EXTINF: -1 tvg-name="CALCUTTA NEWS" tvg-logo="https://calcuttanews.tv/cnlogonew.png" group-title="News", CALCUTTA NEWS
-
+https://calcutta-news.mssarena71.workers.dev/stream/calcuttanews/master.m3u8
 #EXTINF: -1 tvg-name="ABP ANANDA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8_iDvhVFIUbJiYGcKfMMAiwDIV01ZvbHa2QH6AP9U1znTjJ7CP65AFXfnBcdYv5BMxFuqe9F-4AORYDs8GADBmooroK3qLEouMC0CzWbP-ha8Sp-8Dl7z5IOeCbrY_Z8nZynkKr1gIGvkLn4xx35_NMykYxd2eyKoNMZ025Z4wRErmhHIwulzGOPnGHHD/s500/images.jpg" group-title="News", ABP ANANDA
-
+https://abp-ananda.mssarena71.workers.dev/stream/abpanandatv/master.m3u8
 #EXTINF: -1 tvg-name="ZEE 24 GHANTA" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Channel-Logo_zee-24-ghanta_280-X-200.jpg" group-title="News", ZEE 24 GHANTA
-
+https://zee28-ghanta.mssarena71.workers.dev/stream/Zee24Ghanta/master.m3u8
 #EXTINF: -1 tvg-name="TV9 BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjnydA7f2o0kgsXPG4N3tlk4m8PdqMfpUMHC84At31m0-ClX8IkAXB5qlAs6n2gJxI36OOXrE389ezFzgEnY_cx0WrRzJIMKNvhzb0YCTSadW-2aLeH93z7FqzYXG4OpEXtmeuQPzfRWdNNIq45wNSSLZ5GMBiP2EDcAtIIkcN7wfu6vQQPxxUPhN80J8L/s588/images%20(1).jpg" group-title="News", TV9 BANGLA
-
+https://tv9-bangla.mssarena71.workers.dev/stream/TV9BanglaLive/master.m3u8
 #EXTINF: -1 tvg-name="ZEE NEWS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VDAjSOb3b1JHQJsIQjBGxjG5qb_L5llCXGWd9W7ob6vE9O0Q-dJsyKC_El8DlyOl3Uf37TKMsyY0rU4S0ETYKKxuuW0OnK3VMH5J_Rp9f_5WDgvjlvJ-jMggefDC3BRUT63wx-cRnE1NvB_A-uiDHMN9RWWAx7JhKkt5cF3ZwJKV-uCKmfpjnsM8ZIVB/s2939/Zee-news-Logo-PNG_eur68d.png" group-title="News", ZEE NEWS
-
+https://zee-news.mssarena71.workers.dev/stream/zeenews/master.m3u8
 #EXTINF: -1 tvg-name="DW" tvg-logo="http://toffe.top/images/dwtv.png" group-title="News", DW
-
+https://dw-news.mssarena71.workers.dev/stream/dwnews/master.m3u8
 #EXTINF: -1 tvg-name="NDTV" tvg-logo="https://i.ndtvimg.com/i/2016-11/ndtv-india-logo_650x400_71478247761.jpg" group-title="News", NDTV
-
+https://ndtv-hindi.mssarena71.workers.dev/stream/ndtvindia/master.m3u8
 #EXTINF: -1 tvg-name="AL JAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="News", AL JAZEERA
-
+https://al-zajeera-english.mssarena71.workers.dev/stream/aljazeeraenglish/master.m3u8
 
 
 
@@ -150,7 +150,7 @@ https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="GB" tvg-logo="http://172.16.29.242/assets/images/gaanbangla.png" group-title="Music", GB
 
 #EXTINF: -1 tvg-name="RTV MUSIC" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png" group-title="Music", RTV MUSIC
-
+https://rtv-music.mssarena71.workers.dev/stream/RtvMusic/master.m3u8
 #EXTINF: -1 tvg-name="MTV BEATS" tvg-logo="https://en.wikipedia.org/wiki/MTV_Beats#/media/File:MTV_Beats_Logo.png" group-title="Music", MTV BEATS
 
 
@@ -178,26 +178,26 @@ https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF: -1 tvg-name="ANIMAL PLANET ENGLISH" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET ENGLISH
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF: -1 tvg-name="NAT GEO WILD" tvg-logo="http://toffe.top/images/natgeo.png" group-title="Information", NAT GEO WILD
-
+https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png" group-title="Information", DISCOVERY SCIENCE
 
 #EXTINF: -1 tvg-name="NASA TV" tvg-logo="https://i.pinimg.com/564x/4f/dc/ff/4fdcffd1b575fe3cf1733f38cb1c09de.jpg" group-title="Information", NASA TV
-
+https://nasa-tv.mssarena71.workers.dev/stream/NASA/master.m3u8
 #EXTINF: -1 tvg-name="NASA Media TV" tvg-logo="https://i.pinimg.com/564x/4f/dc/ff/4fdcffd1b575fe3cf1733f38cb1c09de.jpg" group-title="Information", NASA Media TV
-
+https://nasa-midea-tv.mssarena71.workers.dev/stream/NASA/master.m3u8
 #EXTINF: -1 tvg-name="HISTORY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" group-title="Information", HISTORY TV
 
 #EXTINF: -1 tvg-name="CGTN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTU9e6CMyDDZWQ7t41m8WRuijrJ42Gd2qWcFCfd_poelHhqmhVA8E5r6vQc71AoVhoFGy67ohIXG0NqzuSPuK7h7BCf1EeCGIjUpjJwDCzYK0IerD1CVwM-Pyi_SYwbdCQzAkmhuAYwp1W9cFivpXH1_9DN1hh3GoXHL80GSYr9jhAomDAY26weI8xbgZD/s1280/CGTN_Documentary.png" group-title="Information", ,CGTN
 
 
 #EXTINF: -1 tvg-name="PIANO RELAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNb08KWXC3jii2jdEG10maNBmW3DHycXKb4oi1pjE2so8CE_Ef8bCvCIXatPZSHKOofNqNWwHSCzJS-giONA-NwsDqIJ8JjSYuzxbx2JYkNlWykCk6ayaLCoWgNVoyjY_XbhCQwFp1pRqjTt26u22GsaAz9SQF4hzs_8IdAK84yMyblnmRlH4HyzwTKyD/s1035/PIANO%20RELAX.jpg" group-title="Information", PIANO RELAX
-
+https://piano-relax.mssarena71.workers.dev/stream/pianorelax4k/master.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY RELAXATION" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx-UOj0f7yAef9QiUOktLjJ6rrQS2e_taspCDwnvUPVgeykQulmXurlkcI2xnx0c2M1U7VhCkQkaqHhLzwJbUez0UapjFftByXEEwaYs6HErEeKYYYnll0cp7C9xickuSemrDW2SArs5KwNnLRR5t9innYwVxKZn0SN12YWEKbWdjwNftUzs0N7RGkawct/s938/Discovery%20Relaxation.jpg" group-title="Information", DISCOVERY RELAXATION (Himaloy)
-
+https://discovery-relaxation.mssarena71.workers.dev/stream/iscoveryrelaxation3457/master.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY RELAXATION (Africa)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx-UOj0f7yAef9QiUOktLjJ6rrQS2e_taspCDwnvUPVgeykQulmXurlkcI2xnx0c2M1U7VhCkQkaqHhLzwJbUez0UapjFftByXEEwaYs6HErEeKYYYnll0cp7C9xickuSemrDW2SArs5KwNnLRR5t9innYwVxKZn0SN12YWEKbWdjwNftUzs0N7RGkawct/s938/Discovery%20Relaxation.jpg" group-title="Information", DISCOVERY RELAXATION (Africa)
-
+https://discovery-relaxsation.mssarena71.workers.dev/stream/iscoveryrelaxation3457/master.m3u8
 #EXTINF: -1 tvg-name="PEACEFUL RELAXATION" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMa2P0lGswuAIl2zvHscDPwGiFXR3M9BUMkeGJC7ZC89zIFVW-sgVsZoNuQrvJ4pFIovEcVd5a7YFL2paIedN0jEsG3jFRzAnVDOr9dndYCQNNi4inVLANT8d_RBVD2vSBfdhDKj7_2_HdlZNiDo2YIr55MLjAL85mvJBhUGM4OBwzuPfI_bfzzLs1iFuK/s1103/Peaceful%20Relaxation.jpg" group-title="Information", PEACEFUL RELAXATION
-
+https://peaceful-relaxation.mssarena71.workers.dev/stream/PeacefulRelaxation726/master.m3u8
 
 
 
