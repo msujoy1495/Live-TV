@@ -14,7 +14,7 @@ https://chanal-i.mssarena71.workers.dev/stream/ChanneliNews/master.m3u8
 #EXTINF: -1 tvg-name="MY TV" tvg-logo="http://toffe.top/images/mytv.png" group-title="Entertainment", MY TV
 
 #EXTINF: -1 tvg-name="BOISAKHI TV" tvg-logo="http://toffe.top/images/boisakai.png" group-title="Entertainment", BOISAKHI TV
-
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="ATN BANGLA" tvg-logo="http://toffe.top/images/atnbangla.png" group-title="Entertainment", ATN BANGLA
 
 #EXTINF: -1 tvg-name="MASRANGA TV" tvg-logo="http://toffe.top/images/Masranga.png" group-title="Entertainment", MASRANGA TV
@@ -37,7 +37,7 @@ http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Tara Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_TV_Derana.jpg" group-title="Movies", TARA TV
 
 #EXTINF: -1 tvg-name="MOVIE BANGLA" tvg-logo="https://www.moviebangla.tv/images/moviebanglatv%20logo.png" group-title="Movies", MOVIE BANGLA
-
+https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="COLORS BANGLA CINAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/1050px-Colors_Bangla_Cinema.png" group-title="Movies", COLORS BANGLA CINAMA
 
 #EXTINF: -1 tvg-name="JALSHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JALSHA MOVIES
@@ -77,7 +77,7 @@ https://ekattor-tv.mssarena71.workers.dev/stream/EkattorTelevision/master.m3u8
 #EXTINF: -1 tvg-name="JAMUNA TV" tvg-logo="http://172.16.29.242/assets/images/jamunatv.png" group-title="News", JAMUNA TV
 https://jamuna-tv.mssarena71.workers.dev/stream/JamunaTVbd/master.m3u8
 #EXTINF: -1 tvg-name="NEWS 24" tvg-logo="http://toffe.top/images/news24.png" group-title="News", NEWS 24
-
+https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
 https://independent-tv.mssarena71.workers.dev/stream/IndependentTelevision/master.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
