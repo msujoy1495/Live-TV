@@ -126,7 +126,7 @@ https://al-zajeera-english.mssarena71.workers.dev/stream/aljazeeraenglish/master
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
 https://tv5.hoichoi24.com/1409/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA
-https://tv5.hoichoi24.com/1405/tracks-v1/mono.m3u8
+https://tv1.instafarm.live/getm3u8?id=625&m3u8=https://jiotvbpkmob.cdn.jio.com/bpk-tv/Zee_Bangla_MOB/Fallback/Zee_Bangla_MOB-audio_98834_eng=98800-video=863200.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
 https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY SET" tvg-logo="http://toffe.top/images/sonyent.png" group-title="Indian Bangla", SONNY SET
@@ -247,7 +247,7 @@ https://live-cdn.tsports.com/live-02/master_1920.m3u8
 #EXTINF: -1 tvg-name="PTV SPORTS" tvg-logo="http://toffe.top/images/ptv.jpg" group-title="Sports", PTV SPORTS
 
 #EXTINF: -1 tvg-name="SPORTS 18" tvg-logo="http://toffe.top/images/sports18.png" group-title="Sports", SPORTS 18
-
+https://tv1.instafarm.live/getm3u8?id=2853&m3u8=https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_3_MOB/Fallback/Sports18_3_MOB-audio_33642_eng=33600-video=148000.m3u8
 
 
 
