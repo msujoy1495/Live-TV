@@ -151,7 +151,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF: -1 tvg-name="RTV MUSIC" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png" group-title="Music", RTV MUSIC
 https://rtv-music.mssarena71.workers.dev/stream/RtvMusic/master.m3u8
-#EXTINF: -1 tvg-name="MTV BEATS" tvg-logo="https://en.wikipedia.org/wiki/MTV_Beats#/media/File:MTV_Beats_Logo.png" group-title="Music", MTV BEATS
+#EXTINF: -1 tvg-name="MASTIII" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Mastiii-TV_logo.jpg" group-title="Music", MASTIII
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 
 
