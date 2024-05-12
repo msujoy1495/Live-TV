@@ -6,11 +6,11 @@ http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
 #EXTINF: -1 tvg-name="NAGORIK TV" tvg-logo="http://172.16.29.242/assets/images/nagorik.png" group-title="Entertainment", NAGORIK TV
 http://cdn01.palki.tv/live/Channel9-M/tracks-v2a1/mono.m3u8
 #EXTINF: -1 tvg-name="DIPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Entertainment", DIPTO TV
-
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="Chanal I" tvg-logo="http://toffe.top/images/Channel%20i1664976520.png" group-title="Entertainment", Chanal I
-
+https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
 #EXTINF: -1 tvg-name="SATV" tvg-logo="http://toffe.top/images/satv.png" group-title="Entertainment", SATV
-
+https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="MY TV" tvg-logo="http://toffe.top/images/mytv.png" group-title="Entertainment", MY TV
 https://myflixbd.com/0.m3u8
 #EXTINF: -1 tvg-name="BOISAKHI TV" tvg-logo="http://toffe.top/images/boisakai.png" group-title="Entertainment", BOISAKHI TV
@@ -22,7 +22,7 @@ https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="GREEN TV" tvg-logo="http://toffe.top/images/greentv.png" group-title="Entertainment", GREEN TV
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="GTV" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV
-
+http://103.151.60.214:7444/1102/video.m3u8
 
 
 
