@@ -248,7 +248,7 @@ http://172.16.29.242:8080/hls/sports4/index.m3u8
 https://n5.dramaticreadings.com:999/hls/ptvpk.m3u8?md5=IEpp1HC4VxMvJ1BxRpY-tg&expires=1715532026
 #EXTINF: -1 tvg-name="SPORTS 18" tvg-logo="http://toffe.top/images/sports18.png" group-title="Sports", SPORTS 18
 
-#EXTINF: -1 tvg-name="BEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="Other", BEN SPORTS 3
+#EXTINF: -1 tvg-name="BEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="Sports", BEN SPORTS 3
 http://145.239.5.177:8080/514/index.m3u8
 
 
