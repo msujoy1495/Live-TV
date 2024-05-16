@@ -188,8 +188,7 @@ https://nasa-tv.mssarena71.workers.dev/stream/NASA/master.m3u8
 #EXTINF: -1 tvg-name="HISTORY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" group-title="Information", HISTORY TV
 
 #EXTINF: -1 tvg-name="CGTN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTU9e6CMyDDZWQ7t41m8WRuijrJ42Gd2qWcFCfd_poelHhqmhVA8E5r6vQc71AoVhoFGy67ohIXG0NqzuSPuK7h7BCf1EeCGIjUpjJwDCzYK0IerD1CVwM-Pyi_SYwbdCQzAkmhuAYwp1W9cFivpXH1_9DN1hh3GoXHL80GSYr9jhAomDAY26weI8xbgZD/s1280/CGTN_Documentary.png" group-title="Information", ,CGTN
-
-
+https://watchtvs.live/discovery/m3u8/TLC.m3u8
 #EXTINF: -1 tvg-name="PIANO RELAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNb08KWXC3jii2jdEG10maNBmW3DHycXKb4oi1pjE2so8CE_Ef8bCvCIXatPZSHKOofNqNWwHSCzJS-giONA-NwsDqIJ8JjSYuzxbx2JYkNlWykCk6ayaLCoWgNVoyjY_XbhCQwFp1pRqjTt26u22GsaAz9SQF4hzs_8IdAK84yMyblnmRlH4HyzwTKyD/s1035/PIANO%20RELAX.jpg" group-title="Information", PIANO RELAX
 
 #EXTINF: -1 tvg-name="DISCOVERY RELAXATION" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx-UOj0f7yAef9QiUOktLjJ6rrQS2e_taspCDwnvUPVgeykQulmXurlkcI2xnx0c2M1U7VhCkQkaqHhLzwJbUez0UapjFftByXEEwaYs6HErEeKYYYnll0cp7C9xickuSemrDW2SArs5KwNnLRR5t9innYwVxKZn0SN12YWEKbWdjwNftUzs0N7RGkawct/s938/Discovery%20Relaxation.jpg" group-title="Information", DISCOVERY RELAXATION
@@ -266,7 +265,7 @@ https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/in
 #EXTINF: -1 tvg-name="KRISHNA BHAJAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sri_Mariamman_Temple_Singapore_2_amk.jpg/440px-Sri_Mariamman_Temple_Singapore_2_amk.jpg" group-title="Hindu", KRISHNA BHAJAN
 
 #EXTINF: -1 tvg-name="ISKCON BANGALORE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ISKCON_Banglaore_Temple.jpg/440px-ISKCON_Banglaore_Temple.jpg" group-title="Hindu", ISKCON BANGALORE 
-https://iskcon-bangalore.mssarena71.workers.dev/stream/iskconbangalore/master.m3u8
+
 
 
 
