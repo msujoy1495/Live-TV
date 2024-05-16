@@ -71,7 +71,7 @@ https://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 
 #EXTINF: -1 tvg-name="ATN NEWS" tvg-logo="http://toffe.top/images/atnnews.png" group-title="Entertainment", ATN NEWS
-https://atn-news.mssarena71.workers.dev/stream/ATNNewsLive/master.m3u8
+
 #EXTINF: -1 tvg-name="EKATTOR TV" tvg-logo="http://toffe.top/images/ekattortv.png" group-title="News", EKATTOR TV
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF: -1 tvg-name="JAMUNA TV" tvg-logo="http://172.16.29.242/assets/images/jamunatv.png" group-title="News", JAMUNA TV
@@ -79,29 +79,29 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="NEWS 24" tvg-logo="http://toffe.top/images/news24.png" group-title="News", NEWS 24
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715805586/ei/MslEZsy7EvCHz7sPg8qM2As/ip/103.120.6.71/id/QlKFoGAybQk.73/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51094389/txs/51094388%2C51094389/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgP44A3Bkj5ZQXhRS1fznHPfS7EFxeNeb0esxtuMeVGnACIBtRBa3BJRV6Y1MSVpMeNFGJSTR44690DrboK5I9M3x2/file/index.m3u8
+https://independent-tv.raban3453.workers.dev/live/@IndependentTelevision.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="DBC NEWS" tvg-logo="http://toffe.top/images/dbc.png" group-title="News", DBC NEWS
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="REPUBLIC BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" group-title="News", REPUBLIC BANGLA
-https://republic-bangla.mssarena71.workers.dev/stream/republicbangla/master.m3u8
+https://republic-bangla.raban3453.workers.dev/live/@republicbangla.m3u8
 #EXTINF: -1 tvg-name="CALCUTTA NEWS" tvg-logo="https://calcuttanews.tv/cnlogonew.png" group-title="News", CALCUTTA NEWS
-https://calcutta-news.mssarena71.workers.dev/stream/calcuttanews/master.m3u8
+https://calcutta-news.raban3453.workers.dev/live/@calcuttanews.m3u8
 #EXTINF: -1 tvg-name="ABP ANANDA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8_iDvhVFIUbJiYGcKfMMAiwDIV01ZvbHa2QH6AP9U1znTjJ7CP65AFXfnBcdYv5BMxFuqe9F-4AORYDs8GADBmooroK3qLEouMC0CzWbP-ha8Sp-8Dl7z5IOeCbrY_Z8nZynkKr1gIGvkLn4xx35_NMykYxd2eyKoNMZ025Z4wRErmhHIwulzGOPnGHHD/s500/images.jpg" group-title="News", ABP ANANDA
-https://abp-ananda.mssarena71.workers.dev/stream/abpanandatv/master.m3u8
+https://abp-ananda.raban3453.workers.dev/live/@abpanandatv.m3u8
 #EXTINF: -1 tvg-name="ZEE 24 GHANTA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b4/%E0%A6%9C%E0%A6%BF_%E0%A7%A8%E0%A7%AA_%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE_%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="News", ZEE 24 GHANTA
-https://zee28-ghanta.mssarena71.workers.dev/stream/Zee24Ghanta/master.m3u8
+https://zee24-ghanta.raban3453.workers.dev/live/@Zee24Ghanta.m3u8
 #EXTINF: -1 tvg-name="TV9 BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjnydA7f2o0kgsXPG4N3tlk4m8PdqMfpUMHC84At31m0-ClX8IkAXB5qlAs6n2gJxI36OOXrE389ezFzgEnY_cx0WrRzJIMKNvhzb0YCTSadW-2aLeH93z7FqzYXG4OpEXtmeuQPzfRWdNNIq45wNSSLZ5GMBiP2EDcAtIIkcN7wfu6vQQPxxUPhN80J8L/s588/images%20(1).jpg" group-title="News", TV9 BANGLA
-https://tv9-bangla.mssarena71.workers.dev/stream/TV9BanglaLive/master.m3u8
+https://tv9-bangla.raban3453.workers.dev/live/@TV9BanglaLive.m3u8
 #EXTINF: -1 tvg-name="ZEE NEWS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VDAjSOb3b1JHQJsIQjBGxjG5qb_L5llCXGWd9W7ob6vE9O0Q-dJsyKC_El8DlyOl3Uf37TKMsyY0rU4S0ETYKKxuuW0OnK3VMH5J_Rp9f_5WDgvjlvJ-jMggefDC3BRUT63wx-cRnE1NvB_A-uiDHMN9RWWAx7JhKkt5cF3ZwJKV-uCKmfpjnsM8ZIVB/s2939/Zee-news-Logo-PNG_eur68d.png" group-title="News", ZEE NEWS
-https://zee-news.mssarena71.workers.dev/stream/zeenews/master.m3u8
+https://zee-news.raban3453.workers.dev/live/@zeenews.m3u8
 #EXTINF: -1 tvg-name="DW" tvg-logo="http://toffe.top/images/dwtv.png" group-title="News", DW
-https://dw-news.mssarena71.workers.dev/stream/dwnews/master.m3u8
+https://dw-news.raban3453.workers.dev/live/@dwnews.m3u8
 #EXTINF: -1 tvg-name="NDTV" tvg-logo="https://i.ndtvimg.com/i/2016-11/ndtv-india-logo_650x400_71478247761.jpg" group-title="News", NDTV
-https://ndtv-hindi.mssarena71.workers.dev/stream/ndtvindia/master.m3u8
+https://ndtv-india.raban3453.workers.dev/live/@ndtvindia.m3u8
 #EXTINF: -1 tvg-name="AL JAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="News", AL JAZEERA
-https://al-zajeera-english.mssarena71.workers.dev/stream/aljazeeraenglish/master.m3u8
+https://al-jazira.raban3453.workers.dev/live/@aljazeeraenglish.m3u8
 
 
 
@@ -178,7 +178,7 @@ https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF: -1 tvg-name="ANIMAL PLANET ENGLISH" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET ENGLISH
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF: -1 tvg-name="NAT GEO WILD" tvg-logo="http://toffe.top/images/natgeo.png" group-title="Information", NAT GEO WILD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715788340/ei/1IVEZrGtJ92cjuMPvP-duAY/ip/103.120.6.71/id/BJ3Yv572V1A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51094389/txs/51094388%2C51094389/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/bd/siu/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgI-PBsqcpHRyxYdnUkjkCt0ECT5vyF5v3dT6Axc51_hsCICwXVuELg3pcCs8t5F-G1SX8f-CWiIjRdSSyS69uYShU/file/index.m3u8
+https://wild.raban3453.workers.dev/live/NatGeoWild.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png" group-title="Information", DISCOVERY SCIENCE
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 #EXTINF: -1 tvg-name="NASA TV" tvg-logo="https://i.pinimg.com/564x/4f/dc/ff/4fdcffd1b575fe3cf1733f38cb1c09de.jpg" group-title="Information", NASA TV
@@ -193,9 +193,9 @@ https://nasa-tv.mssarena71.workers.dev/stream/NASA/master.m3u8
 #EXTINF: -1 tvg-name="PIANO RELAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNb08KWXC3jii2jdEG10maNBmW3DHycXKb4oi1pjE2so8CE_Ef8bCvCIXatPZSHKOofNqNWwHSCzJS-giONA-NwsDqIJ8JjSYuzxbx2JYkNlWykCk6ayaLCoWgNVoyjY_XbhCQwFp1pRqjTt26u22GsaAz9SQF4hzs_8IdAK84yMyblnmRlH4HyzwTKyD/s1035/PIANO%20RELAX.jpg" group-title="Information", PIANO RELAX
 
 #EXTINF: -1 tvg-name="DISCOVERY RELAXATION" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx-UOj0f7yAef9QiUOktLjJ6rrQS2e_taspCDwnvUPVgeykQulmXurlkcI2xnx0c2M1U7VhCkQkaqHhLzwJbUez0UapjFftByXEEwaYs6HErEeKYYYnll0cp7C9xickuSemrDW2SArs5KwNnLRR5t9innYwVxKZn0SN12YWEKbWdjwNftUzs0N7RGkawct/s938/Discovery%20Relaxation.jpg" group-title="Information", DISCOVERY RELAXATION
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715807579/ei/-9BEZsmMMJ7IjuMP6c6s4Ak/ip/103.120.6.71/id/et_uYIxg778.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51094389/txs/51094388%2C51094389/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJimGPpUDxio4y47sHjZKtouUHwPsSqO2xDdIwqqYj2fAiEAnATC1aMoY2LC3eVTH93ohST0MaIYrphmMvLXPlQGBuc%3D/file/index.m3u8
+https://discovery-relaxation.raban3453.workers.dev/live/@discoveryrelaxation3457.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY (Africa)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8ARPXZuPzaE6qXwF7Yq_3foS1WFYQTtecLMI4suaSnVMxFj8EDl6oPvpskOxeZoqJZRQ76NZrrGcN5kLAWlZNA-mSV-eLlVRgLPKWlKdPSxhdkIFoBzQTiroqhfmfozar4M6Tkv4JifdtWKOpLLeL8BEquo2JPhVRr38Fpp_Cof-32Bj9eJ5DobcYGHU/s1303/Discovery%20Africa.jpg" group-title="Information", DISCOVERY (Africa)
-https://discovery-africa.mssarena71.workers.dev/stream/Africamvideos/master.m3u8
+
 #EXTINF: -1 tvg-name="PEACEFUL RELAXATION" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMa2P0lGswuAIl2zvHscDPwGiFXR3M9BUMkeGJC7ZC89zIFVW-sgVsZoNuQrvJ4pFIovEcVd5a7YFL2paIedN0jEsG3jFRzAnVDOr9dndYCQNNi4inVLANT8d_RBVD2vSBfdhDKj7_2_HdlZNiDo2YIr55MLjAL85mvJBhUGM4OBwzuPfI_bfzzLs1iFuK/s1103/Peaceful%20Relaxation.jpg" group-title="Information", PEACEFUL RELAXATION
 
 
