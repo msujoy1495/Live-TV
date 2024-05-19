@@ -172,7 +172,7 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF: -1 tvg-name="WILD" tvg-logo="http://toffe.top/images/natgeo.png" group-title="Information", WILD
 
 #EXTINF: -1 tvg-name="TRAVEL XP" tvg-logo="http://toffe.top/images/travel.png" group-title="Information", TRAVEL XP
-
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/1200.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY ENGLISH" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY HINDI
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF: -1 tvg-name="ANIMAL PLANET ENGLISH" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET ENGLISH
@@ -257,7 +257,7 @@ http://145.239.5.177:8080/514/index.m3u8
 #EXTINF: -1 tvg-name="BHAKTHI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" group-title="Hindu", BHAKTHI TV
 https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
 #EXTINF: -1 tvg-name="AASTHA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aastha_Logo.svg/1024px-Aastha_Logo.svg.png" group-title="Hindu", AASTHA TV
-
+https://bhaktiapp.shemaroo.com/pratishirdi/smil:pratishirdisel.smil/chunklist_b1128000_sleng.m3u8
 #EXTINF: -1 tvg-name="SRI SANKARA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Sri_Sankara_TV_Logo.png" group-title="Hindu", SRI SANKARA TV
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF: -1 tvg-name="SHUBH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDqN6a1FivftFvLlDFQ2G2WJetTHxktrI0ah-rcBVN14Bh_IFcUEU0KxGWvu6B_5N_dAfx6b10cotUCEzWh-zt1TcFR9HDPA5zFcGA0Khc5pBK934nHs2XlhLyTbSBZzUTPe1vdGqm-Sdn5SyPjxwRrYVNSBd0yUuLzDpHjMMNpIwBZd0WvzthQ3kTScA9/s396/Subha.jpg" group-title="Hindu", SHUBH
