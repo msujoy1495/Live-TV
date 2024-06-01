@@ -212,7 +212,7 @@ http://85.237.89.6:9590/live/zinatvwild/index.m3u8
 #EXTINF: -1 tvg-name="CN" tvg-logo="http://toffe.top/images/cn.png" group-title="Kids", CN
 
 #EXTINF: -1 tvg-name="SONY YAY" tvg-logo="https://en.wikipedia.org/wiki/Sony_YAY!#/media/File:Sony_Yay_new.png" group-title="Kids", SONY YAY
-https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+http://portal.code-crafters.app/app/play.m3u8?id=1656
 #EXTINF: -1 tvg-name="NICK JR" tvg-logo="http://toffe.top/images/nickjr.png" group-title="Kids", NICK JR
 
 #EXTINF: -1 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
@@ -230,11 +230,11 @@ http://172.17.50.112/live/antbd1001/index.m3u8
 #EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Sports", T SPORTS
 http://17.17.17.2/CH69-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 1" tvg-logo="http://toffe.top/images/sonyten1.png" group-title="Sports", SONY SPORTS 1
-
+https://toxicify.pro/sliv/stream.php?id=sony-ten-1-hd&e=.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 2" tvg-logo="http://toffe.top/images/sonyten2.png" group-title="Sports", SONY SPORTS 2
 
 #EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
-
+https://toxicify.pro/sliv/stream.php?id=sony-ten-3-hd&e=.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS HINDI 1 
 
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
@@ -248,11 +248,11 @@ http://17.17.17.2/CH69-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="PTV SPORTS" tvg-logo="http://toffe.top/images/ptv.jpg" group-title="Sports", PTV SPORTS
 https://mhdsportv.com/crichd/stream.php?id=ptvpk&e=.m3u8
 #EXTINF: -1 tvg-name="SPORTS 18" tvg-logo="http://toffe.top/images/sports18.png" group-title="Sports", SPORTS 18
-
+https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF: -1 tvg-name="BEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="Sports", BEN SPORTS 3
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="A SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports", A SPORTS
-https://mhdsportv.com/crichd/stream.php?id=asportshd&e=.m3u8
+http://homeip.biz/PK_PS/index.m3u8
 #EXTINF: -1 tvg-name="FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="Sports", FOX SPORTS 1
 https://mhdsportv.com/crichd/stream.php?id=usafox1&e=.m3u8
 
