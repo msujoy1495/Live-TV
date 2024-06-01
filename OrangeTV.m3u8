@@ -234,9 +234,9 @@ http://17.17.17.2/CH69-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
 
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS HINDI 1 
-https://jancdn-b.bunycdn.com/live/indexa22.m3u8
+
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
-http://172.16.29.242:8080/hls/sports4/index.m3u8
+
 #EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="http://172.16.29.242/assets/images/starsports3.png" group-title="Sports", STAR SPORTS 3
 
 #EXTINF: -1 tvg-name="STAR SELECT 1" tvg-logo="http://toffe.top/images/starsportssetec.jpg" group-title="Sports", STAR SELECT 1 HD
@@ -248,7 +248,14 @@ https://mhdsportv.com/crichd/stream.php?id=ptvpk&e=.m3u8
 #EXTINF: -1 tvg-name="SPORTS 18" tvg-logo="http://toffe.top/images/sports18.png" group-title="Sports", SPORTS 18
 
 #EXTINF: -1 tvg-name="BEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="Sports", BEN SPORTS 3
-http://145.239.5.177:8080/514/index.m3u8
+http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="A SPORTS" tvg-logo="Logo" group-title="Other", A SPORTS
+https://mhdsportv.com/crichd/stream.php?id=asportshd&e=.m3u8
+#EXTINF: -1 tvg-name="FOX SPORTS 1" tvg-logo="Logo" group-title="Other", FOX SPORTS 1
+https://mhdsportv.com/crichd/stream.php?id=usafox1&e=.m3u8
+
+
+
 
 
 
