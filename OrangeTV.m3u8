@@ -37,7 +37,7 @@ https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="Tara Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_TV_Derana.jpg" group-title="Movies", TARA TV
 
 #EXTINF: -1 tvg-name="MOVIE BANGLA" tvg-logo="https://www.moviebangla.tv/images/moviebanglatv%20logo.png" group-title="Movies", MOVIE BANGLA
-https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
+http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF: -1 tvg-name="COLORS BANGLA CINAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/1050px-Colors_Bangla_Cinema.png" group-title="Movies", COLORS BANGLA CINAMA
 
 #EXTINF: -1 tvg-name="JALSHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JALSHA MOVIES
@@ -57,7 +57,7 @@ http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
 http://172.17.50.112/live/antbd1003/index.m3u8
 #EXTINF: -1 tvg-name="GOLDMINE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTPejj392fGoNbIVJPJYhDIFdpf598ISk-pelQS2VlMeN6XAWrXAY_h_FidnEwO6r8Bjny_U0xu6cC0gpQst-TLnYrWUPkRgxw2BwliA3G5vvU5y0mWFc0MC5QKQ2oyk3UI9fhVcvq5M0DLuIb8b6tmVEMFpA2lzPwXKjzjVTk2Cs8-BqUEvViPQrw7X6R/s320/Goldmines_Bollywood.png" group-title="Movies", GOLDMINE
-https://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+
 #EXTINF: -1 tvg-name="COLORS CINAPLEX" tvg-logo="http://toffe.top/images/colorscimeplex.png" group-title="Movies", COLORS CINAPLEX
 http://170.254.18.107/CINEPLEX/index.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD" tvg-logo="http://toffe.top/images/stargold.png" group-title="Movies", STAR GOLD
