@@ -195,8 +195,8 @@ https://watchtvs.live/discovery/m3u8/TLC.m3u8
 https://discovery-relaxation.raban3453.workers.dev/live/@discoveryrelaxation3457.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY (Africa)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8ARPXZuPzaE6qXwF7Yq_3foS1WFYQTtecLMI4suaSnVMxFj8EDl6oPvpskOxeZoqJZRQ76NZrrGcN5kLAWlZNA-mSV-eLlVRgLPKWlKdPSxhdkIFoBzQTiroqhfmfozar4M6Tkv4JifdtWKOpLLeL8BEquo2JPhVRr38Fpp_Cof-32Bj9eJ5DobcYGHU/s1303/Discovery%20Africa.jpg" group-title="Information", DISCOVERY (Africa)
 
-#EXTINF: -1 tvg-name="Zina Wild TV" tvg-logo="Logo" group-title="Other", Zina Wild TV
-
+#EXTINF: -1 tvg-name="Zina Wild TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/250px-Wild_TV_logo_2020.png" group-title="Other", Zina Wild TV
+http://85.237.89.6:9590/live/zinatvwild/index.m3u8
 
 
 
