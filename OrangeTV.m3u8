@@ -235,7 +235,7 @@ https://toxicify.pro/sliv/stream.php?id=sony-ten-1-hd&e=.m3u8
 
 #EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
 https://toxicify.pro/sliv/stream.php?id=sony-ten-3-hd&e=.m3u8
-#EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS HINDI 1 
+#EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
 
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
 http://172.17.50.112/live/antbd1001/index.m3u8
@@ -245,6 +245,8 @@ http://172.17.50.112/live/antbd1001/index.m3u8
 
 #EXTINF: -1 tvg-name="STAR SELECT 2" tvg-logo="http://toffe.top/images/starsps2.png" group-title="Sports", STAR SELECT 2 HD
 
+#EXTINF: -1 tvg-name="STAR SPORTS HINDI" tvg-logo="Logo" group-title="Sports", STAR SPORTS HINDI 
+https://59.scjustfor.info/mobile/stream2_240p/playlist.m3u8?vidictid=198817973459&id=6&pk=d05e7e73245f92ccab8f4b51801308f868624738e515a4987a7f094e481071d7
 #EXTINF: -1 tvg-name="PTV SPORTS" tvg-logo="http://toffe.top/images/ptv.jpg" group-title="Sports", PTV SPORTS
 https://mhdsportv.com/crichd/stream.php?id=ptvpk&e=.m3u8
 #EXTINF: -1 tvg-name="SPORTS 18" tvg-logo="http://toffe.top/images/sports18.png" group-title="Sports", SPORTS 18
@@ -305,7 +307,7 @@ https://mominvaithanks.xyz/mominRocks/ts.php?id=live-02&e.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
 
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
-http://172.17.50.112/live/antbd1001/index.m3u8
+
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
 http://172.17.50.112/live/antbd1001/index.m3u8
 #EXTINF: -1 tvg-name="WIllOW XTRA" tvg-logo="Logo" group-title="Other", WIllOW XTRA
