@@ -229,6 +229,8 @@ http://172.17.50.112/live/antbd1004/index.m3u8
 http://172.17.50.112/live/antbd1001/index.m3u8
 #EXTINF: -1 tvg-name="LIVE SPORTS 2" tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS 2
 https://51.scjustfor.info/mobile/stream1_240p/playlist.m3u8?vidictid=19881162783&id=2&pk=d05e7e73245f92ccab8f4b51801308f868624738e515a4987a7f094e481071d7
+#EXTINF: -1 tvg-name="TOFFEE BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3c_5-9Ch78VMsGAMA784-5-HufS7pfUnvamIdu0tsuQenbnZSOyB5__9VUd3Cp61zvQG_lOl02RPsgxSxhY78-GOa3fyB716xuQeNgDkvB-PcYt6DBod_gzgvz5Lx5CIssLTgiEncicuiUcrapYyncdd8GG62vf2vgGvqpw4zVdpT85JKDhpj_aXO2EM1/s275/IMG_20240614_162801_515.png" group-title="Sports", T20 WORLD CUP BANGLA
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb63fW_8gtcAEXnxlUNBP1s/ts
 
 
 #EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Sports", T SPORTS
