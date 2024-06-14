@@ -13,6 +13,8 @@ https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="MY TV" tvg-logo="http://toffe.top/images/mytv.png" group-title="Entertainment", MY TV
 https://myflixbd.com/0.m3u8
+#EXTINF: -1 tvg-name="Chanal 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/525px-Channel9_bd.svg.png" group-title="Entertainment", Chanal 9
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/2316.ts
 #EXTINF: -1 tvg-name="BOISAKHI TV" tvg-logo="http://toffe.top/images/boisakai.png" group-title="Entertainment", BOISAKHI TV
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="ATN BANGLA" tvg-logo="http://toffe.top/images/atnbangla.png" group-title="Entertainment", ATN BANGLA
@@ -45,13 +47,13 @@ http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF: -1 tvg-name="& PICTURE" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURE
 http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
-
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/2351.ts
 #EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
 
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Movies", SONY MAX
-http://170.254.18.107/SONYMAX/index.m3u8
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1794.ts
 #EXTINF: -1 tvg-name="ZEE CINEMA" tvg-logo="http://toffe.top/images/zeecinema.jpg" group-title="Movies", ZEE CINEMA
-http://170.254.18.107/ZEECINEMA/index.m3u8
+http://xtv.ooo:8080/live/logixs1176/logixs7562/109958.ts
 #EXTINF: -1 tvg-name="MOVIES NOW" tvg-logo="http://toffe.top/images/moviesnow.png" group-title="Movies", MOVIES NOW
 
 #EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
@@ -61,7 +63,7 @@ http://172.17.50.112/live/antbd1003/index.m3u8
 #EXTINF: -1 tvg-name="COLORS CINAPLEX" tvg-logo="http://toffe.top/images/colorscimeplex.png" group-title="Movies", COLORS CINAPLEX
 http://170.254.18.107/CINEPLEX/index.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD" tvg-logo="http://toffe.top/images/stargold.png" group-title="Movies", STAR GOLD
-
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1556.ts
 #EXTINF: -1 tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO
 
 
@@ -73,11 +75,11 @@ http://170.254.18.107/CINEPLEX/index.m3u8
 #EXTINF: -1 tvg-name="ATN NEWS" tvg-logo="http://toffe.top/images/atnnews.png" group-title="Entertainment", ATN NEWS
 https://atn-news.raban3453.workers.dev/live/@atnnewsltd.m3u8
 #EXTINF: -1 tvg-name="EKATTOR TV" tvg-logo="http://toffe.top/images/ekattortv.png" group-title="News", EKATTOR TV
-https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/3113.ts
 #EXTINF: -1 tvg-name="JAMUNA TV" tvg-logo="http://172.16.29.242/assets/images/jamunatv.png" group-title="News", JAMUNA TV
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="NEWS 24" tvg-logo="http://toffe.top/images/news24.png" group-title="News", NEWS 24
-https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16508.ts
 #EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
 https://independent-tv.raban3453.workers.dev/live/@IndependentTelevision.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
@@ -112,7 +114,7 @@ https://al-jazira.raban3453.workers.dev/live/@aljazeeraenglish.m3u8
 #EXTINF: -1 tvg-name="AKASH AATH" tvg-logo="https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE#/media/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Indian Bangla", AKASH AATH
 
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
-
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1354.ts
 #EXTINF: -1 tvg-name="COLORS BANGLA" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Indian Bangla", COLORS BANGLA
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA HD" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA HD
@@ -120,7 +122,7 @@ http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/49963.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF: -1 tvg-name="SUN BANGLA" tvg-logo="http://toffe.top/images/sunbangla.png" group-title="Indian Bangla", SUN BANGLA
-
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1354.ts
 #EXTINF: -1 tvg-name=" ENTER 10" tvg-logo="http://toffe.top/images/entertain.png" group-title="Indian Bangla", ENTER 10
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/cb573e1c786c678b84c83a64cef94382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fae0554d8e69a6b4011a9d2c44fa83439c8101b2d4d2598316d776f0419c93f783db1481e4325293738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f8f7b53430df30a07ba129a4e90399a7eb84bdd89a65a19d8ad236743d4f65a6f20b0f0b2cadf3c25b475f2ade79f01143a58250a259839a24a0f319efcc10491d15ff0dc47d0e63c4d6a80f931ea48e51b4db44713bc5ccf0df4ac0f1978434e68a74eab9b22ff21dc73a9f4de40364269a2805cc88ad811652c1fc6c869dd1d1fb6cc98c3f13a7b9b30550ab320ee520b3a986f2c64b379b0da1d7c992a0fb2303fd05121cf17afef62a6f19bad2d1381f3eb0ebf63e6be0f92d107aa6633104290fa3e5048493281bc36436037930bb493f9e0710812e5b898ad971d6b514b623866bcebe9749499d3694c46b3340854344147d854ac2ab5666e0f21ce12d6d679578d142e20e3e7721d6d6598ccbe969494ad60b06cd8dbf22925590d35a5521ae8e197ba76d3d5ae53032681e06f91/46/1280x720_3072000/index.m3u8
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
@@ -130,9 +132,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF: -1 tvg-name="SONY SET" tvg-logo="http://toffe.top/images/sonyent.png" group-title="Indian Bangla", SONNY SET
-
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1385.ts
 #EXTINF: -1 tvg-name="STAR PLUS" tvg-logo="http://172.16.29.242/assets/images/starplus.png" group-title="Indian Bangla", STAR PLUS
-
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1485.ts
 
 
 
@@ -148,7 +150,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF: -1 tvg-name="SANGEET BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF: -1 tvg-name="GB" tvg-logo="http://172.16.29.242/assets/images/gaanbangla.png" group-title="Music", GB
-http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1339.ts
 #EXTINF: -1 tvg-name="RTV MUSIC" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png" group-title="Music", RTV MUSIC
 https://rtv-music.raban3453.workers.dev/live/@RtvMusic.m3u8
 #EXTINF: -1 tvg-name="MASTIII" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Mastiii-TV_logo.jpg" group-title="Music", MASTIII
@@ -234,23 +236,23 @@ http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb63fW_8gtcAEXnxlUNBP1s/ts
 
 
 #EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Sports", T SPORTS
-http://17.17.17.2/CH69-SP/tracks-v1a1/mono.m3u8
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1404.ts
 #EXTINF: -1 tvg-name="SONY SPORTS 1" tvg-logo="http://toffe.top/images/sonyten1.png" group-title="Sports", SONY SPORTS 1
-https://toxicify.pro/sliv/stream.php?id=sony-ten-1-hd&e=.m3u8
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/13365.ts
 #EXTINF: -1 tvg-name="SONY SPORTS 2" tvg-logo="http://toffe.top/images/sonyten2.png" group-title="Sports", SONY SPORTS 2
-
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/13366.ts
 #EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
-https://toxicify.pro/sliv/stream.php?id=sony-ten-3-hd&e=.m3u8
-#EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
 
+#EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16382.ts
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
-http://172.17.50.112/live/antbd1001/index.m3u8
+
 #EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="http://172.16.29.242/assets/images/starsports3.png" group-title="Sports", STAR SPORTS 3
 
 #EXTINF: -1 tvg-name="STAR SELECT 1" tvg-logo="http://toffe.top/images/starsportssetec.jpg" group-title="Sports", STAR SELECT 1 HD
-
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1526.ts
 #EXTINF: -1 tvg-name="STAR SELECT 2" tvg-logo="http://toffe.top/images/starsps2.png" group-title="Sports", STAR SELECT 2 HD
-
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1550.ts
 #EXTINF: -1 tvg-name="STAR SPORTS HINDI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgljpGbXIQAIf5Gv_NjlMA2FmoBeUwfYnIl8ituNhIAEWBcxd2zfaODolbSbRMxFgyOp1TSk907D9-TMNpM-VMTuFWHV7IZ6WbZuIKrTy0TSCSiBp5Zl6DE7k3PfgqCRbcgjLLoaRuKrj4MkUpIpA9Dt3qLQNjI1qO5jGRTNAIUFMxIEHw7O8aj8LTPBYXJ/s554/images.jpg" group-title="Sports", STAR SPORTS HINDI 
 https://59.scjustfor.info/mobile/stream2_240p/playlist.m3u8?vidictid=198817973459&id=6&pk=d05e7e73245f92ccab8f4b51801308f868624738e515a4987a7f094e481071d7
 #EXTINF: -1 tvg-name="PTV SPORTS" tvg-logo="http://toffe.top/images/ptv.jpg" group-title="Sports", PTV SPORTS
