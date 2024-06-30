@@ -38,7 +38,7 @@ https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-name="Tara Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_TV_Derana.jpg" group-title="Movies", TARA TV
 
-#EXTINF: -1 tvg-name="MOVIE BANGLA" tvg-logo="https://www.moviebangla.tv/images/moviebanglatv%20logo.png" group-title="Movies", MOVIE BANGLA
+#EXTINF: -1 tvg-name="MOVIE BANGLA" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="Movies", MOVIE BANGLA
 http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF: -1 tvg-name="COLORS BANGLA CINAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/1050px-Colors_Bangla_Cinema.png" group-title="Movies", COLORS BANGLA CINAMA
 
@@ -230,7 +230,9 @@ http://172.17.50.112/live/antbd1004/index.m3u8
 #EXTINF: -1 tvg-name="LIVE SPORTS" tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS
 http://172.17.50.112/live/antbd1001/index.m3u8
 #EXTINF: -1 tvg-name="LIVE SPORTS 2" tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS 2
-https://58.scjustfor.info/mobile/stream1_320p/playlist.m3u8?vidictid=199015473297&id=3&pk=d05e7e73245f92ccab8f4b51801308f868624738e515a4987a7f094e481071d7
+
+#EXTINF: -1 tvg-name="LIVE SPORTS 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1dzqRMomTPes0ztUvm-H7pwCPoZMUfH3PncapJ8i5k5oi3CwP9rfOFOISd134B53hwDZ-gOhya8cd7Plk0GCjCO-BaiOu2BfdXwiPYpD0Lk_RD4XhqCNKEG6twlobe5_3rjxPHSDuLmAUHoppRIbgO5RX0AQEs9PB1pbU3t6TkJy7GNl3WOCwH6lyJZRQ/s320/Copa.png" group-title="Sports", COPA AMIRICA 2024
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
 #EXTINF: -1 tvg-name="TOFFEE BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3c_5-9Ch78VMsGAMA784-5-HufS7pfUnvamIdu0tsuQenbnZSOyB5__9VUd3Cp61zvQG_lOl02RPsgxSxhY78-GOa3fyB716xuQeNgDkvB-PcYt6DBod_gzgvz5Lx5CIssLTgiEncicuiUcrapYyncdd8GG62vf2vgGvqpw4zVdpT85JKDhpj_aXO2EM1/s275/IMG_20240614_162801_515.png" group-title="Sports", T20 WORLD CUP BANGLA
 https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/zY07aH-QTu2JODtSNbbGm_L-pa7eJ5fXeMDxdyq1oFOpANHpSjqdT4AYGX3SQup9CaMALUJfUQmAr6l99s1Qfg/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_playlist.m3u8?type=live
 
