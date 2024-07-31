@@ -153,11 +153,11 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF: -1 tvg-name="SANGEET BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF: -1 tvg-name="GB" tvg-logo="https://gaanbangla.tv/wp-content/uploads/2023/10/gb_big.png" group-title="Music", GB
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1339.ts
+
 #EXTINF: -1 tvg-name="RTV MUSIC" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png" group-title="Music", RTV MUSIC
-https://rtv-music.raban3453.workers.dev/live/@RtvMusic.m3u8
+
 #EXTINF: -1 tvg-name="MASTIII" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Mastiii-TV_logo.jpg" group-title="Music", MASTIII
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+
 
 
 
@@ -183,11 +183,11 @@ https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF: -1 tvg-name="ANIMAL PLANET ENGLISH" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET ENGLISH
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF: -1 tvg-name="NAT GEO WILD" tvg-logo="http://toffe.top/images/natgeo.png" group-title="Information", NAT GEO WILD
-https://wild.raban3453.workers.dev/live/NatGeoWild.m3u8
+
 #EXTINF: -1 tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png" group-title="Information", DISCOVERY SCIENCE
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 #EXTINF: -1 tvg-name="NASA TV" tvg-logo="https://i.pinimg.com/564x/4f/dc/ff/4fdcffd1b575fe3cf1733f38cb1c09de.jpg" group-title="Information", NASA TV
-https://nasa-tv.mssarena71.workers.dev/stream/NASA/master.m3u8
+
 #EXTINF: -1 tvg-name="NASA Media TV" tvg-logo="https://i.pinimg.com/564x/4f/dc/ff/4fdcffd1b575fe3cf1733f38cb1c09de.jpg" group-title="Information", NASA Media TV
 
 #EXTINF: -1 tvg-name="HISTORY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" group-title="Information", HISTORY TV
@@ -197,7 +197,7 @@ https://watchtvs.live/discovery/m3u8/TLC.m3u8
 #EXTINF: -1 tvg-name="PIANO RELAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNb08KWXC3jii2jdEG10maNBmW3DHycXKb4oi1pjE2so8CE_Ef8bCvCIXatPZSHKOofNqNWwHSCzJS-giONA-NwsDqIJ8JjSYuzxbx2JYkNlWykCk6ayaLCoWgNVoyjY_XbhCQwFp1pRqjTt26u22GsaAz9SQF4hzs_8IdAK84yMyblnmRlH4HyzwTKyD/s1035/PIANO%20RELAX.jpg" group-title="Information", PIANO RELAX
 
 #EXTINF: -1 tvg-name="DISCOVERY RELAXATION" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx-UOj0f7yAef9QiUOktLjJ6rrQS2e_taspCDwnvUPVgeykQulmXurlkcI2xnx0c2M1U7VhCkQkaqHhLzwJbUez0UapjFftByXEEwaYs6HErEeKYYYnll0cp7C9xickuSemrDW2SArs5KwNnLRR5t9innYwVxKZn0SN12YWEKbWdjwNftUzs0N7RGkawct/s938/Discovery%20Relaxation.jpg" group-title="Information", DISCOVERY RELAXATION
-https://discovery-relaxation.raban3453.workers.dev/live/@discoveryrelaxation3457.m3u8
+
 #EXTINF: -1 tvg-name="DISCOVERY (Africa)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8ARPXZuPzaE6qXwF7Yq_3foS1WFYQTtecLMI4suaSnVMxFj8EDl6oPvpskOxeZoqJZRQ76NZrrGcN5kLAWlZNA-mSV-eLlVRgLPKWlKdPSxhdkIFoBzQTiroqhfmfozar4M6Tkv4JifdtWKOpLLeL8BEquo2JPhVRr38Fpp_Cof-32Bj9eJ5DobcYGHU/s1303/Discovery%20Africa.jpg" group-title="Information", DISCOVERY (Africa)
 
 #EXTINF: -1 tvg-name="Zina Wild TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/250px-Wild_TV_logo_2020.png" group-title="Information", Zina Wild TV
@@ -215,13 +215,13 @@ http://85.237.89.6:9590/live/zinatvwild/index.m3u8
 #EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://en.wikipedia.org/wiki/Duronto_TV#/media/File:Duronto_TV_Logo.png" group-title="Kids", DURONTO TV
 
 #EXTINF: -1 tvg-name="CN" tvg-logo="http://toffe.top/images/cn.png" group-title="Kids", CN
-https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
+
 #EXTINF: -1 tvg-name="SONY YAY" tvg-logo="https://en.wikipedia.org/wiki/Sony_YAY!#/media/File:Sony_Yay_new.png" group-title="Kids", SONY YAY
-http://portal.code-crafters.app/app/play.m3u8?id=1656
+
 #EXTINF: -1 tvg-name="NICK JR" tvg-logo="http://toffe.top/images/nickjr.png" group-title="Kids", NICK JR
-https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+
 #EXTINF: -1 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
-http://172.17.50.112/live/antbd1004/index.m3u8
+
 
 
 
@@ -231,45 +231,44 @@ http://172.17.50.112/live/antbd1004/index.m3u8
 
 
 #EXTINF: -1 tvg-name="LIVE SPORTS" tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS
-http://172.17.50.112/live/antbd1001/index.m3u8
+
 #EXTINF: -1 tvg-name="LIVE SPORTS 2" tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS 2
 
-#EXTINF: -1 tvg-name="LIVE SPORTS 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1dzqRMomTPes0ztUvm-H7pwCPoZMUfH3PncapJ8i5k5oi3CwP9rfOFOISd134B53hwDZ-gOhya8cd7Plk0GCjCO-BaiOu2BfdXwiPYpD0Lk_RD4XhqCNKEG6twlobe5_3rjxPHSDuLmAUHoppRIbgO5RX0AQEs9PB1pbU3t6TkJy7GNl3WOCwH6lyJZRQ/s320/Copa.png" group-title="Sports", COPA AMIRICA 2024
-https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
+#EXTINF: -1 tvg-name="LIVE SPORTS 2" tvg-logo="Logo" group-title="Sports", COPA AMIRICA 2024
+
 #EXTINF: -1 tvg-name="TOFFEE BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3c_5-9Ch78VMsGAMA784-5-HufS7pfUnvamIdu0tsuQenbnZSOyB5__9VUd3Cp61zvQG_lOl02RPsgxSxhY78-GOa3fyB716xuQeNgDkvB-PcYt6DBod_gzgvz5Lx5CIssLTgiEncicuiUcrapYyncdd8GG62vf2vgGvqpw4zVdpT85JKDhpj_aXO2EM1/s275/IMG_20240614_162801_515.png" group-title="Sports", T20 WORLD CUP BANGLA
-https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/zY07aH-QTu2JODtSNbbGm_L-pa7eJ5fXeMDxdyq1oFOpANHpSjqdT4AYGX3SQup9CaMALUJfUQmAr6l99s1Qfg/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_playlist.m3u8?type=live
 
 
 #EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Sports", T SPORTS
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1404.ts
+
 #EXTINF: -1 tvg-name="SONY SPORTS 1" tvg-logo="http://toffe.top/images/sonyten1.png" group-title="Sports", SONY SPORTS 1
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/13365.ts
+
 #EXTINF: -1 tvg-name="SONY SPORTS 2" tvg-logo="http://toffe.top/images/sonyten2.png" group-title="Sports", SONY SPORTS 2
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/13366.ts
+
 #EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
 
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16382.ts
+
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
 
 #EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="http://172.16.29.242/assets/images/starsports3.png" group-title="Sports", STAR SPORTS 3
 
 #EXTINF: -1 tvg-name="STAR SELECT 1" tvg-logo="http://toffe.top/images/starsportssetec.jpg" group-title="Sports", STAR SELECT 1 HD
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1526.ts
+
 #EXTINF: -1 tvg-name="STAR SELECT 2" tvg-logo="http://toffe.top/images/starsps2.png" group-title="Sports", STAR SELECT 2 HD
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1550.ts
+
 #EXTINF: -1 tvg-name="STAR SPORTS HINDI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgljpGbXIQAIf5Gv_NjlMA2FmoBeUwfYnIl8ituNhIAEWBcxd2zfaODolbSbRMxFgyOp1TSk907D9-TMNpM-VMTuFWHV7IZ6WbZuIKrTy0TSCSiBp5Zl6DE7k3PfgqCRbcgjLLoaRuKrj4MkUpIpA9Dt3qLQNjI1qO5jGRTNAIUFMxIEHw7O8aj8LTPBYXJ/s554/images.jpg" group-title="Sports", STAR SPORTS HINDI 
-https://59.scjustfor.info/mobile/stream2_240p/playlist.m3u8?vidictid=198817973459&id=6&pk=d05e7e73245f92ccab8f4b51801308f868624738e515a4987a7f094e481071d7
+
 #EXTINF: -1 tvg-name="PTV SPORTS" tvg-logo="http://toffe.top/images/ptv.jpg" group-title="Sports", PTV SPORTS
-https://mhdsportv.com/crichd/stream.php?id=ptvpk&e=.m3u8
+
 #EXTINF: -1 tvg-name="SPORTS 18" tvg-logo="http://toffe.top/images/sports18.png" group-title="Sports", SPORTS 18
-https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
+
 #EXTINF: -1 tvg-name="BEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="Sports", BEN SPORTS 3
-http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-name="A SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports", A SPORTS
-http://homeip.biz/PK_PS/index.m3u8
+
 #EXTINF: -1 tvg-name="FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="Sports", FOX SPORTS 1
-https://mhdsportv.com/crichd/stream.php?id=usafox1&e=.m3u8
+
 
 
 
@@ -279,9 +278,9 @@ https://mhdsportv.com/crichd/stream.php?id=usafox1&e=.m3u8
 
 
 #EXTINF: -1 tvg-name="BHAKTHI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" group-title="Hindu", BHAKTHI TV
-https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
+
 #EXTINF: -1 tvg-name="AASTHA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aastha_Logo.svg/1024px-Aastha_Logo.svg.png" group-title="Hindu", AASTHA TV
-https://bhaktiapp.shemaroo.com/pratishirdi/smil:pratishirdisel.smil/chunklist_b1128000_sleng.m3u8
+
 #EXTINF: -1 tvg-name="SRI SANKARA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Sri_Sankara_TV_Logo.png" group-title="Hindu", SRI SANKARA TV
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF: -1 tvg-name="SHUBH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDqN6a1FivftFvLlDFQ2G2WJetTHxktrI0ah-rcBVN14Bh_IFcUEU0KxGWvu6B_5N_dAfx6b10cotUCEzWh-zt1TcFR9HDPA5zFcGA0Khc5pBK934nHs2XlhLyTbSBZzUTPe1vdGqm-Sdn5SyPjxwRrYVNSBd0yUuLzDpHjMMNpIwBZd0WvzthQ3kTScA9/s396/Subha.jpg" group-title="Hindu", SHUBH
@@ -308,7 +307,7 @@ https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/in
 #EXTINF: -1 tvg-name="COLORS BANGLA" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Other", COLORS BANGLA
 https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF: -1 tvg-name="GREEN TV" tvg-logo="http://toffe.top/images/greentv.png" group-title="Other", GREEN TV
-https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
+
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Other", SONY MAX
 
 #EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Other", SONY PIX
@@ -316,17 +315,17 @@ https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Other", SONNY AATH
 
 #EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Sports", T SPORTS
-http://113.212.111.246:8080/hls/col12.m3u8
+
 #EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
 
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
 
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
-http://172.17.50.112/live/antbd1001/index.m3u8
+
 #EXTINF: -1 tvg-name="WIllOW XTRA" tvg-logo="Logo" group-title="Other", WIllOW XTRA
-http://xtv.ooo:8080/live/2575376/47426736/220061.m3u8
+
 #EXTINF: -1 tvg-name="A SPORTS" tvg-logo="https://en.wikipedia.org/wiki/A_Sports#/media/File:A_Sports_Logo.png" group-title="Other", A SPORTS
-https://mhdsportv.com/crichd/stream.php?id=asportshd&e=.m3u8
+
 
 
 
