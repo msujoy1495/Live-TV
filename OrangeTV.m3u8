@@ -43,27 +43,27 @@ http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF: -1 tvg-name="COLORS BANGLA CINAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/1050px-Colors_Bangla_Cinema.png" group-title="Movies", COLORS BANGLA CINAMA
 
 #EXTINF: -1 tvg-name="JALSHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JALSHA MOVIES
-https://bdix.proximitybd.xyz/মায়েরদোয়া-cricket-team/andro2.php?id=jalsa_tv
+
 #EXTINF: -1 tvg-name="& PICTURE" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURE
-http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
+
 #EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/2351.ts
+
 #EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
 
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Movies", SONY MAX
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1794.ts
+
 #EXTINF: -1 tvg-name="ZEE CINEMA" tvg-logo="http://toffe.top/images/zeecinema.jpg" group-title="Movies", ZEE CINEMA
-http://xtv.ooo:8080/live/logixs1176/logixs7562/109958.ts
+
 #EXTINF: -1 tvg-name="MOVIES NOW" tvg-logo="http://toffe.top/images/moviesnow.png" group-title="Movies", MOVIES NOW
 
 #EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
-http://172.17.50.112/live/antbd1003/index.m3u8
+
 #EXTINF: -1 tvg-name="GOLDMINE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTPejj392fGoNbIVJPJYhDIFdpf598ISk-pelQS2VlMeN6XAWrXAY_h_FidnEwO6r8Bjny_U0xu6cC0gpQst-TLnYrWUPkRgxw2BwliA3G5vvU5y0mWFc0MC5QKQ2oyk3UI9fhVcvq5M0DLuIb8b6tmVEMFpA2lzPwXKjzjVTk2Cs8-BqUEvViPQrw7X6R/s320/Goldmines_Bollywood.png" group-title="Movies", GOLDMINE
 
 #EXTINF: -1 tvg-name="COLORS CINAPLEX" tvg-logo="http://toffe.top/images/colorscimeplex.png" group-title="Movies", COLORS CINAPLEX
-http://170.254.18.107/CINEPLEX/index.m3u8
+
 #EXTINF: -1 tvg-name="STAR GOLD" tvg-logo="http://toffe.top/images/stargold.png" group-title="Movies", STAR GOLD
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1556.ts
+
 #EXTINF: -1 tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO
 
 
@@ -73,37 +73,37 @@ http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1556.ts
 
 
 #EXTINF: -1 tvg-name="ATN NEWS" tvg-logo="http://toffe.top/images/atnnews.png" group-title="Entertainment", ATN NEWS
-https://atn-news.raban3453.workers.dev/live/@atnnewsltd.m3u8
+
 #EXTINF: -1 tvg-name="EKATTOR TV" tvg-logo="http://toffe.top/images/ekattortv.png" group-title="News", EKATTOR TV
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/3113.ts
+
 #EXTINF: -1 tvg-name="JAMUNA TV" tvg-logo="http://172.16.29.242/assets/images/jamunatv.png" group-title="News", JAMUNA TV
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
 #EXTINF: -1 tvg-name="NEWS 24" tvg-logo="http://toffe.top/images/news24.png" group-title="News", NEWS 24
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16508.ts
+
 #EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
-https://independent-tv.raban3453.workers.dev/live/@IndependentTelevision.m3u8
+
 #EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
-https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+
 #EXTINF: -1 tvg-name="DBC NEWS" tvg-logo="http://toffe.top/images/dbc.png" group-title="News", DBC NEWS
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+
 #EXTINF: -1 tvg-name="REPUBLIC BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" group-title="News", REPUBLIC BANGLA
-https://republic-bangla.raban3453.workers.dev/live/@republicbangla.m3u8
+
 #EXTINF: -1 tvg-name="CALCUTTA NEWS" tvg-logo="https://calcuttanews.tv/cnlogonew.png" group-title="News", CALCUTTA NEWS
-https://calcutta-news.raban3453.workers.dev/live/@calcuttanews.m3u8
+
 #EXTINF: -1 tvg-name="ABP ANANDA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8_iDvhVFIUbJiYGcKfMMAiwDIV01ZvbHa2QH6AP9U1znTjJ7CP65AFXfnBcdYv5BMxFuqe9F-4AORYDs8GADBmooroK3qLEouMC0CzWbP-ha8Sp-8Dl7z5IOeCbrY_Z8nZynkKr1gIGvkLn4xx35_NMykYxd2eyKoNMZ025Z4wRErmhHIwulzGOPnGHHD/s500/images.jpg" group-title="News", ABP ANANDA
-https://abp-ananda.raban3453.workers.dev/live/@abpanandatv.m3u8
+
 #EXTINF: -1 tvg-name="ZEE 24 GHANTA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b4/%E0%A6%9C%E0%A6%BF_%E0%A7%A8%E0%A7%AA_%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE_%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="News", ZEE 24 GHANTA
-https://zee24-ghanta.raban3453.workers.dev/live/@Zee24Ghanta.m3u8
+
 #EXTINF: -1 tvg-name="TV9 BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjnydA7f2o0kgsXPG4N3tlk4m8PdqMfpUMHC84At31m0-ClX8IkAXB5qlAs6n2gJxI36OOXrE389ezFzgEnY_cx0WrRzJIMKNvhzb0YCTSadW-2aLeH93z7FqzYXG4OpEXtmeuQPzfRWdNNIq45wNSSLZ5GMBiP2EDcAtIIkcN7wfu6vQQPxxUPhN80J8L/s588/images%20(1).jpg" group-title="News", TV9 BANGLA
-https://tv9-bangla.raban3453.workers.dev/live/@TV9BanglaLive.m3u8
+
 #EXTINF: -1 tvg-name="ZEE NEWS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VDAjSOb3b1JHQJsIQjBGxjG5qb_L5llCXGWd9W7ob6vE9O0Q-dJsyKC_El8DlyOl3Uf37TKMsyY0rU4S0ETYKKxuuW0OnK3VMH5J_Rp9f_5WDgvjlvJ-jMggefDC3BRUT63wx-cRnE1NvB_A-uiDHMN9RWWAx7JhKkt5cF3ZwJKV-uCKmfpjnsM8ZIVB/s2939/Zee-news-Logo-PNG_eur68d.png" group-title="News", ZEE NEWS
-https://zee-news.raban3453.workers.dev/live/@zeenews.m3u8
+
 #EXTINF: -1 tvg-name="DW" tvg-logo="http://toffe.top/images/dwtv.png" group-title="News", DW
-https://dw-news.raban3453.workers.dev/live/@dwnews.m3u8
+
 #EXTINF: -1 tvg-name="NDTV" tvg-logo="https://i.ndtvimg.com/i/2016-11/ndtv-india-logo_650x400_71478247761.jpg" group-title="News", NDTV
-https://ndtv-india.raban3453.workers.dev/live/@ndtvindia.m3u8
+
 #EXTINF: -1 tvg-name="AL JAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="News", AL JAZEERA
-https://al-jazira.raban3453.workers.dev/live/@aljazeeraenglish.m3u8
+
 
 
 
