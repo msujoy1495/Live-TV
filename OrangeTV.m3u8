@@ -63,7 +63,7 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF: -1 tvg-name="COLORS CINAPLEX" tvg-logo="http://toffe.top/images/colorscimeplex.png" group-title="Movies", COLORS CINAPLEX
 
 #EXTINF: -1 tvg-name="STAR GOLD" tvg-logo="http://toffe.top/images/stargold.png" group-title="Movies", STAR GOLD
-
+http://103.124.251.164:28015/play/a00u/index.m3u8
 #EXTINF: -1 tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO
 http://103.124.251.164:28015/play/a01v/index.m3u8
 
@@ -227,6 +227,8 @@ https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF: -1 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
 http://103.124.251.164:28015/play/a00y/index.m3u8
+#EXTINF: -1 tvg-name="SUPER HANGAMA" tvg-logo="Logo" group-title="Other", SUPER HANGAMA
+http://103.124.251.164:28015/play/a02n/index.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids", DISCOVERY KIDS
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 
