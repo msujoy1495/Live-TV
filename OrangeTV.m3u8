@@ -255,8 +255,7 @@ http://18.18.18.1:7777/ch4/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 5
 http://humsab.xyz/S_Ten5/index.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
-http://103.124.251.164:28015/play/a022/index.m3u8
-http://172.17.50.112/live/antbd1003/index.m3u8
+http://103.124.251.164:28015/play/a02w/index.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
 http://18.18.18.1:7777/ch6/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="http://172.16.29.242/assets/images/starsports3.png" group-title="Sports", STAR SPORTS 3
