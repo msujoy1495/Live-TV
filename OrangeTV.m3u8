@@ -37,17 +37,17 @@ http://18.18.18.1:7777/ch14/tracks-v1a1/mono.m3u8
 
 
 #EXTINF: -1 tvg-name="Tara Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_TV_Derana.jpg" group-title="Movies", TARA TV
-
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF: -1 tvg-name="MOVIE BANGLA" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="Movies", MOVIE BANGLA
 http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF: -1 tvg-name="COLORS BANGLA CINAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/1050px-Colors_Bangla_Cinema.png" group-title="Movies", COLORS BANGLA CINAMA
-
+http://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/1440968.ts
 #EXTINF: -1 tvg-name="JALSHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JALSHA MOVIES
 http://18.18.18.1/ch16/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="& PICTURE" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURE
 http://103.124.251.164:28015/play/a02o/index.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
-
+http://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/112575.ts
 #EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
 http://18.18.18.1/ch14/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Movies", SONY MAX
@@ -84,7 +84,7 @@ http://18.18.18.1/ch8/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
 http://18.18.18.1/ch11/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
-
+http://18.18.18.1/ch5/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="DBC NEWS" tvg-logo="http://toffe.top/images/dbc.png" group-title="News", DBC NEWS
 http://18.18.18.1:7777/ch13/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="REPUBLIC BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" group-title="News", REPUBLIC BANGLA
@@ -183,7 +183,7 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY BANGLA" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY BANGLA
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF: -1 tvg-name="NATIONAL GEOGRAPHY" tvg-logo="http://toffe.top/images/nationalgeo.png" group-title="Information", NATIONAL GEOGRAPHY
-http://103.110.110.11:8081/live/NGC/playlist.m3u8
+http://xtv.ooo:8080/global/global/206285.ts
 #EXTINF: -1 tvg-name="WILD" tvg-logo="http://toffe.top/images/natgeo.png" group-title="Information", WILD
 http://18.18.18.1:7777/ch19/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="TRAVEL XP" tvg-logo="http://toffe.top/images/travel.png" group-title="Information", TRAVEL XP
@@ -256,8 +256,8 @@ http://18.18.18.1:7777/ch1/tracks-v1a1/mono.m3u8
 http://172.17.50.112/live/antbd1001/index.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 2" tvg-logo="http://toffe.top/images/sonyten2.png" group-title="Sports", SONY SPORTS 2
 http://18.18.18.1:7777/ch4/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 5
-http://humsab.xyz/S_Ten5/index.m3u8
+#EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
+http://xtv.ooo:8080/live/global/global/167572.ts
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
 http://103.124.251.164:28015/play/a02w/index.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
