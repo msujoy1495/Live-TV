@@ -80,7 +80,7 @@ http://xtv.ooo:8080/Irfan99383/8888/245915
 http://18.18.18.1/ch10/index.m3u8
 http://18.18.18.1/ch10/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="CHANAL 24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png" group-title="News", CHANAL 24
-
+http://18.18.18.1/ch8/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
 http://18.18.18.1/ch11/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
