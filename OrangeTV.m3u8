@@ -51,7 +51,7 @@ http://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/112575.ts
 #EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
 http://18.18.18.1/ch14/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Movies", SONY MAX
-
+http://18.18.18.1:7777/ch20/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ZEE CINEMA" tvg-logo="http://toffe.top/images/zeecinema.jpg" group-title="Movies", ZEE CINEMA
 
 #EXTINF: -1 tvg-name="MOVIES NOW" tvg-logo="http://toffe.top/images/moviesnow.png" group-title="Movies", MOVIES NOW
@@ -253,19 +253,19 @@ http://18.18.18.1/live/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Sports", T SPORTS
 http://18.18.18.1:7777/ch1/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 1" tvg-logo="http://toffe.top/images/sonyten1.png" group-title="Sports", SONY SPORTS 1
-http://172.17.50.112/live/antbd1001/index.m3u8
+http://172.17.50.112/live/antbd1002/index.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 2" tvg-logo="http://toffe.top/images/sonyten2.png" group-title="Sports", SONY SPORTS 2
 http://18.18.18.1:7777/ch4/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
 http://xtv.ooo:8080/live/global/global/167572.ts
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
-http://103.124.251.164:28015/play/a02w/index.m3u8
+http://172.17.50.112/live/antbd1002/index.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
 http://18.18.18.1:7777/ch6/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="http://172.16.29.242/assets/images/starsports3.png" group-title="Sports", STAR SPORTS 3
 
 #EXTINF: -1 tvg-name="STAR SELECT 1" tvg-logo="http://toffe.top/images/starsportssetec.jpg" group-title="Sports", STAR SELECT 1 HD
-http://103.124.251.164:28015/play/a03i/index.m3u8
+http://18.18.18.1:7777/ch7/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR SELECT 2" tvg-logo="http://toffe.top/images/starsps2.png" group-title="Sports", STAR SELECT 2 HD
 http://18.18.18.1:7777/ch16/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS HINDI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgljpGbXIQAIf5Gv_NjlMA2FmoBeUwfYnIl8ituNhIAEWBcxd2zfaODolbSbRMxFgyOp1TSk907D9-TMNpM-VMTuFWHV7IZ6WbZuIKrTy0TSCSiBp5Zl6DE7k3PfgqCRbcgjLLoaRuKrj4MkUpIpA9Dt3qLQNjI1qO5jGRTNAIUFMxIEHw7O8aj8LTPBYXJ/s554/images.jpg" group-title="Sports", STAR SPORTS HINDI 
