@@ -247,7 +247,7 @@ http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF: -1 tvg-name="LIVE SPORTS 2" tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS 2
 http://18.18.18.1/live/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="LIVE SPORTS 3" tvg-logo="Logo" group-title="Sports", COPA AMIRICA 2024
-
+http://103.96.235.18:8080/sports1/index.m3u8
 #EXTINF: -1 tvg-name="TOFFEE BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3c_5-9Ch78VMsGAMA784-5-HufS7pfUnvamIdu0tsuQenbnZSOyB5__9VUd3Cp61zvQG_lOl02RPsgxSxhY78-GOa3fyB716xuQeNgDkvB-PcYt6DBod_gzgvz5Lx5CIssLTgiEncicuiUcrapYyncdd8GG62vf2vgGvqpw4zVdpT85JKDhpj_aXO2EM1/s275/IMG_20240614_162801_515.png" group-title="Sports", T20 WORLD CUP BANGLA
 
 
@@ -329,7 +329,7 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Other", SONNY AATH
 
 #EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Sports", T SPORTS
-
+http://103.96.235.18:8080/bd-tsports/index.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
 
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
