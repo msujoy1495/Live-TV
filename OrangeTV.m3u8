@@ -128,7 +128,7 @@ http://18.18.18.1:7777/ch10/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA HD
 http://18.18.18.1:7777/ch9/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
-http://103.124.251.164:28015/play/a009/index.m3u8
+http://172.17.50.112/live/antbd1003/index.m3u8
 #EXTINF: -1 tvg-name="SUN BANGLA" tvg-logo="http://toffe.top/images/sunbangla.png" group-title="Indian Bangla", SUN BANGLA
 
 #EXTINF: -1 tvg-name=" ENTER 10" tvg-logo="http://toffe.top/images/entertain.png" group-title="Indian Bangla", ENTER 10
