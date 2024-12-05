@@ -18,7 +18,7 @@ http://18.18.18.1/ch12/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="BOISAKHI TV" tvg-logo="http://toffe.top/images/boisakai.png" group-title="Entertainment", BOISAKHI TV
 
 #EXTINF: -1 tvg-name="ATN BANGLA" tvg-logo="http://toffe.top/images/atnbangla.png" group-title="Entertainment", ATN BANGLA
-
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF: -1 tvg-name="MASRANGA TV" tvg-logo="http://toffe.top/images/Masranga.png" group-title="Entertainment", MASRANGA TV
 http://18.18.18.1:7777/ch11/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="GREEN TV" tvg-logo="http://toffe.top/images/greentv.png" group-title="Entertainment", GREEN TV
@@ -86,6 +86,7 @@ http://18.18.18.1/ch11/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
 http://18.18.18.1/ch5/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="DBC NEWS" tvg-logo="http://toffe.top/images/dbc.png" group-title="News", DBC NEWS
+https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 http://18.18.18.1:7777/ch13/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="REPUBLIC BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" group-title="News", REPUBLIC BANGLA
 https://r-bangla.mssarena71.workers.dev/live/@republicbangla.m3u8
