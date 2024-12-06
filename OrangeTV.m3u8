@@ -46,7 +46,7 @@ http://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/1440968.ts
 #EXTINF: -1 tvg-name="JALSHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JALSHA MOVIES
 http://18.18.18.1/ch16/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="& PICTURE" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURE
-http://103.124.251.164:28015/play/a02o/index.m3u8
+http://stvlive.net:8080/andpicture/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
 http://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/112575.ts
 #EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
@@ -56,6 +56,7 @@ http://18.18.18.1:7777/ch20/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ZEE CINEMA" tvg-logo="http://toffe.top/images/zeecinema.jpg" group-title="Movies", ZEE CINEMA
 
 #EXTINF: -1 tvg-name="MOVIES NOW" tvg-logo="http://toffe.top/images/moviesnow.png" group-title="Movies", MOVIES NOW
+http://stvlive.net:8080/moviesnow/tracks-v1a1/mono.m3u8
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
 http://18.18.18.1:7777/ch22/tracks-v1a1/mono.m3u8
@@ -74,7 +75,7 @@ http://103.124.251.164:28015/play/a01v/index.m3u8
 
 
 #EXTINF: -1 tvg-name="ATN NEWS" tvg-logo="http://toffe.top/images/atnnews.png" group-title="Entertainment", ATN NEWS
-
+http://stvlive.net:8080/atnnews/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="EKATTOR TV" tvg-logo="http://toffe.top/images/ekattortv.png" group-title="News", EKATTOR TV
 http://xtv.ooo:8080/Irfan99383/8888/245915
 #EXTINF: -1 tvg-name="JAMUNA TV" tvg-logo="https://jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="News", JAMUNA TV
@@ -144,7 +145,7 @@ http://18.18.18.1/ch6/index.m3u8
 
 
 #EXTINF: -1 tvg-name="SONY SET" tvg-logo="http://toffe.top/images/sonyent.png" group-title="Indian Bangla", SONNY SET HD
-
+http://stvlive.net:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR PLUS" tvg-logo="http://172.16.29.242/assets/images/starplus.png" group-title="Indian Bangla", STAR PLUS HD
 
 
