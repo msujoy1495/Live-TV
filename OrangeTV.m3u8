@@ -159,19 +159,19 @@ http://stvlive.net:8080/sonymax/tracks-v1a1/mono.m3u8
 
 
 #EXTINF: -1 tvg-name="SANGEET BHOJPURI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrJqvFneIVQJmCSGZyMQ_uH4DJWtrYMK7YxZrJ75hqLLmtO83L1GJQWgf6aN7luIO00kk-5vMX6tVYovvx-ITKf3xf1eOfdnTUHN1mhJ8TIVW9WqsccWv-BYbLyX3Sj3YnV05JcE7YYCZzE37PKDo7ezQkOVVat9PLtFloNQoRlTRUGYTnMkf_y08ZM76g/s204/images%20(2).jpg" group-title="Music", SANGEET BHOJPURI
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/index.m3u8
+
 #EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
-http://18.18.18.1:7777/ch17/tracks-v1a1/mono.m3u8
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=2137600.m3u8
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+
+
 #EXTINF: -1 tvg-name="SANGEET BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGEET BANGLA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+
 #EXTINF: -1 tvg-name="GB" tvg-logo="https://gaanbangla.tv/wp-content/uploads/2023/10/gb_big.png" group-title="Music", GB
 http://stvlive.net:8080/gaanbangla/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="MASTIII" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Mastiii-TV_logo.jpg" group-title="Music", MASTIII
+http://stvlive.net:8080/abmasti/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="RTV MUSIC" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png" group-title="Music", RTV MUSIC
 https://rtv-music.mssarena71.workers.dev/live/RtvMusic.m3u8
-#EXTINF: -1 tvg-name="MASTIII" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Mastiii-TV_logo.jpg" group-title="Music", MASTIII
-
 
 
 
@@ -261,7 +261,8 @@ http://18.18.18.1:7777/ch1/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 1" tvg-logo="http://toffe.top/images/sonyten1.png" group-title="Sports", SONY SPORTS 1
 http://18.18.18.1:7777/ch3/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 2" tvg-logo="http://toffe.top/images/sonyten2.png" group-title="Sports", SONY SPORTS 2
-http://172.17.50.112/live/antbd1001/index.m3u8
+http://stvlive.net:8080/sonyten2/tracks-v1a1/mono.m3u8
+http://18.18.18.1:7777/ch4/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
 http://stvlive.net:8080/sonyten5/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
