@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF: -1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1024px-Bangladesh_Television_Logo.svg.png" group-title="Entertainment", BTV
-
+http://stvlive.net:8080/btv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="BTV WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Entertainment", BTV WORLD
 http://xtv.ooo:8080/live/Irfan99383/8888/245922.m3u8
 #EXTINF: -1 tvg-name="NAGORIK TV" tvg-logo="http://172.16.29.242/assets/images/nagorik.png" group-title="Entertainment", NAGORIK TV
-
+http://103.175.242.10:8080/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="DIPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Entertainment", DIPTO TV
 http://18.18.18.1/ch3/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Chanal I" tvg-logo="http://toffe.top/images/Channel%20i1664976520.png" group-title="Entertainment", Chanal I
@@ -12,11 +12,11 @@ http://18.18.18.1/ch12/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SATV" tvg-logo="http://toffe.top/images/satv.png" group-title="Entertainment", SATV
 
 #EXTINF: -1 tvg-name="MY TV" tvg-logo="http://toffe.top/images/mytv.png" group-title="Entertainment", MY TV
-
+http://stvlive.net:8080/mytv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Chanal 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/525px-Channel9_bd.svg.png" group-title="Entertainment", Chanal 9
 
 #EXTINF: -1 tvg-name="BOISAKHI TV" tvg-logo="http://toffe.top/images/boisakai.png" group-title="Entertainment", BOISAKHI TV
-
+http://stvlive.net:8080/boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ATN BANGLA" tvg-logo="http://toffe.top/images/atnbangla.png" group-title="Entertainment", ATN BANGLA
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF: -1 tvg-name="MASRANGA TV" tvg-logo="http://toffe.top/images/Masranga.png" group-title="Entertainment", MASRANGA TV
@@ -24,7 +24,7 @@ http://18.18.18.1:7777/ch11/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="GREEN TV" tvg-logo="http://toffe.top/images/greentv.png" group-title="Entertainment", GREEN TV
 
 #EXTINF: -1 tvg-name="GTV" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV
-http://18.18.18.1:7777/ch2/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/gtv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1280px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Other", NTV
 http://18.18.18.1:7777/ch14/tracks-v1a1/mono.m3u8
 
@@ -189,6 +189,7 @@ http://xtv.ooo:8080/global/global/206285.ts
 #EXTINF: -1 tvg-name="WILD" tvg-logo="http://toffe.top/images/natgeo.png" group-title="Information", WILD
 http://18.18.18.1:7777/ch19/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="TRAVEL XP" tvg-logo="http://toffe.top/images/travel.png" group-title="Information", TRAVEL XP
+http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/1200.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY ENGLISH" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY HINDI
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
