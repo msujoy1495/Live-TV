@@ -23,7 +23,7 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF: -1 tvg-name="MASRANGA TV" tvg-logo="http://toffe.top/images/Masranga.png" group-title="Entertainment", MASRANGA TV
 http://18.18.18.1:7777/ch11/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="GREEN TV" tvg-logo="http://toffe.top/images/greentv.png" group-title="Entertainment", GREEN TV
-o
+
 #EXTINF: -1 tvg-name="GTV" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV
 http://stvlive.net:8080/gtv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1280px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Other", NTV
@@ -133,13 +133,13 @@ http://18.18.18.1:7777/ch9/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
 http://172.17.50.112/live/antbd1003/index.m3u8
 #EXTINF: -1 tvg-name="SUN BANGLA" tvg-logo="http://toffe.top/images/sunbangla.png" group-title="Indian Bangla", SUN BANGLA
-
+http://103.175.242.10:8080/sunbangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name=" ENTER 10" tvg-logo="http://toffe.top/images/entertain.png" group-title="Indian Bangla", ENTER 10
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF: -1 tvg-name=" ENTER 10" tvg-logo="http://toffe.top/images/entertain.png" group-title="Indian Bangla", ENTER 10 HD
 
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
-
+http://stvlive.net:8080/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH HD
 http://18.18.18.1/ch6/index.m3u8
 
@@ -194,6 +194,7 @@ http://18.18.18.1:7777/ch19/tracks-v1a1/mono.m3u8
 http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/1200.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY ENGLISH" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY HINDI
+http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF: -1 tvg-name="ANIMAL PLANET ENGLISH" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET ENGLISH
 http://18.18.18.1:7777/ch21/tracks-v1a1/mono.m3u8
