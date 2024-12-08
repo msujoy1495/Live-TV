@@ -102,6 +102,9 @@ https://zee-24-ghanta.mssarena71.workers.dev/live/@Zee24Ghanta.m3u8
 https://tv9-bangla.mssarena71.workers.dev/live/@TV9BanglaLive.m3u8
 #EXTINF: -1 tvg-name="ZEE NEWS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VDAjSOb3b1JHQJsIQjBGxjG5qb_L5llCXGWd9W7ob6vE9O0Q-dJsyKC_El8DlyOl3Uf37TKMsyY0rU4S0ETYKKxuuW0OnK3VMH5J_Rp9f_5WDgvjlvJ-jMggefDC3BRUT63wx-cRnE1NvB_A-uiDHMN9RWWAx7JhKkt5cF3ZwJKV-uCKmfpjnsM8ZIVB/s2939/Zee-news-Logo-PNG_eur68d.png" group-title="News", ZEE NEWS
 https://zee-news.mssarena71.workers.dev/live/@zeenews.m3u8
+
+#EXTINF: -1 tvg-name="R PLUS" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/49/RPlus_24x7_News_logo_%282016%29.png" group-title="News", R PLUS NEWS
+https://r-plus.mssarena71.workers.dev/live/@RPLUSNEWS24X7.m3u8
 #EXTINF: -1 tvg-name="Aaj Tak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News", AAJ TAK
 https://aaj-tak.mssarena71.workers.dev/live/@aajtak.m3u8
 #EXTINF: -1 tvg-name="DW" tvg-logo="http://toffe.top/images/dwtv.png" group-title="News", DW
