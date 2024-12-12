@@ -10,7 +10,7 @@ http://180.92.238.118:8080/deepto/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Chanal I" tvg-logo="http://toffe.top/images/Channel%20i1664976520.png" group-title="Entertainment", Chanal I
 http://18.18.18.1/ch12/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SATV" tvg-logo="http://toffe.top/images/satv.png" group-title="Entertainment", SATV
-
+http://180.92.238.118:8080/satv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="MY TV" tvg-logo="http://toffe.top/images/mytv.png" group-title="Entertainment", MY TV
 http://180.92.238.118:8080/mytv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Chanal 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/525px-Channel9_bd.svg.png" group-title="Entertainment", Chanal 9
@@ -42,21 +42,21 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF: -1 tvg-name="MOVIE BANGLA" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="Movies", MOVIE BANGLA
 http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF: -1 tvg-name="COLORS BANGLA CINAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/1050px-Colors_Bangla_Cinema.png" group-title="Movies", COLORS BANGLA CINAMA
-http://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/1440968.ts
+
 #EXTINF: -1 tvg-name="JALSHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JALSHA MOVIES
 http://18.18.18.1/ch16/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="& PICTURE" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURE
-http://stvlive.net:8080/andpicture/tracks-v1a1/mono.m3u8
+http://180.92.238.118:8080/andpicture/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
-http://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/112575.ts
+http://180.92.238.118:8080/zeebncinema/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
-http://18.18.18.1/ch14/tracks-v1a1/mono.m3u8
+http://18.18.18.1/ch14/tracks-v1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Movies", SONY MAX
 http://18.18.18.1:7777/ch20/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ZEE CINEMA" tvg-logo="http://toffe.top/images/zeecinema.jpg" group-title="Movies", ZEE CINEMA
-http://18.18.18.1:7777/ch23/tracks-v1a1/mono.m3u8
+http://180.92.238.118:8080/zeecinema/tracks-v1/mono.m3u8
 #EXTINF: -1 tvg-name="MOVIES NOW" tvg-logo="http://toffe.top/images/moviesnow.png" group-title="Movies", MOVIES NOW
-http://stvlive.net:8080/moviesnow/tracks-v1a1/mono.m3u8
+http://180.92.238.118:8080/moviesnow/tracks-v1a1/mono.m3u8
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
 http://18.18.18.1:7777/ch22/tracks-v1a1/mono.m3u8
@@ -65,9 +65,11 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF: -1 tvg-name="COLORS CINAPLEX" tvg-logo="http://toffe.top/images/colorscimeplex.png" group-title="Movies", COLORS CINAPLEX
 
 #EXTINF: -1 tvg-name="STAR GOLD" tvg-logo="http://toffe.top/images/stargold.png" group-title="Movies", STAR GOLD
-http://103.124.251.164:28015/play/a00u/index.m3u8
+http://180.92.238.118:8080/stargold/tracks-a1/mono.m3u8
+#EXTINF: -1 tvg-name="STAR GOLD THRILLS" tvg-logo="hhttp://180.92.238.118/assets/images/Star%20Gold%20Thrill1730728943.png" group-title="Movies", STAR GOLD THRILLS
+http://180.92.238.118:8080/stargoldthrill/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO
-http://103.124.251.164:28015/play/a01v/index.m3u8
+
 
 
 
