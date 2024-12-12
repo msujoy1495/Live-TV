@@ -1,31 +1,31 @@
 #EXTM3U
 #EXTINF: -1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1024px-Bangladesh_Television_Logo.svg.png" group-title="Entertainment", BTV
-http://stvlive.net:8080/btv/tracks-v1a1/mono.m3u8
+http://180.92.238.118:8080/btv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="BTV WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Entertainment", BTV WORLD
-http://xtv.ooo:8080/live/Irfan99383/8888/245922.m3u8
+
 #EXTINF: -1 tvg-name="NAGORIK TV" tvg-logo="http://stvlive.net/assets/images/Nagorik%20Tv1725785084.png" group-title="Entertainment", NAGORIK TV
-http://103.175.242.10:8080/nagorik/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-name="DIPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Entertainment", DIPTO TV
-http://18.18.18.1/ch3/tracks-v1a1/mono.m3u8
+http://180.92.238.118:8080/deepto/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Chanal I" tvg-logo="http://toffe.top/images/Channel%20i1664976520.png" group-title="Entertainment", Chanal I
 http://18.18.18.1/ch12/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SATV" tvg-logo="http://toffe.top/images/satv.png" group-title="Entertainment", SATV
 
 #EXTINF: -1 tvg-name="MY TV" tvg-logo="http://toffe.top/images/mytv.png" group-title="Entertainment", MY TV
-http://stvlive.net:8080/mytv/tracks-v1a1/mono.m3u8
+http://180.92.238.118:8080/mytv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Chanal 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/525px-Channel9_bd.svg.png" group-title="Entertainment", Chanal 9
 #EXTINF: -1 tvg-name="ME TV" tvg-logo="http://stvlive.net/assets/images/Me%20TV1731468257.png" group-title="Entertainment", ME TV
-http://stvlive.net:8080/metv/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-name="BOISAKHI TV" tvg-logo="http://toffe.top/images/boisakai.png" group-title="Entertainment", BOISAKHI TV
-http://stvlive.net:8080/boishakhi/tracks-v1a1/mono.m3u8
+http://180.92.238.118:8080/boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ATN BANGLA" tvg-logo="http://toffe.top/images/atnbangla.png" group-title="Entertainment", ATN BANGLA
-https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+http://180.92.238.118:8080/atnbangla/tracks-v1/mono.m3u8
 #EXTINF: -1 tvg-name="MASRANGA TV" tvg-logo="http://toffe.top/images/Masranga.png" group-title="Entertainment", MASRANGA TV
 http://18.18.18.1:7777/ch11/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="GREEN TV" tvg-logo="http://toffe.top/images/greentv.png" group-title="Entertainment", GREEN TV
-
+#EXTINF: -1 tvg-name="R TV" tvg-logo="http://180.92.238.118/assets/images/Rtv1731406387.png" group-title="Entertainment", R TV HD
+http://180.92.238.118:8080/rtv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="GTV" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV
-http://stvlive.net:8080/gtv/tracks-v1a1/mono.m3u8
+http://18.18.18.1:7777/ch2/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1280px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Other", NTV
 http://18.18.18.1:7777/ch14/tracks-v1a1/mono.m3u8
 
