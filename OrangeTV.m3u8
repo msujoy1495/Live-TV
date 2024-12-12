@@ -77,7 +77,7 @@ http://180.92.238.118:8080/stargoldthrill/tracks-v1a1/mono.m3u8
 
 
 #EXTINF: -1 tvg-name="ATN NEWS" tvg-logo="http://toffe.top/images/atnnews.png" group-title="Entertainment", ATN NEWS
-http://stvlive.net:8080/atnnews/tracks-v1a1/mono.m3u8
+http://180.92.238.118:8080/atnnews/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="EKATTOR TV" tvg-logo="http://toffe.top/images/ekattortv.png" group-title="News", EKATTOR TV
 http://xtv.ooo:8080/Irfan99383/8888/245915
 #EXTINF: -1 tvg-name="JAMUNA TV" tvg-logo="https://jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="News", JAMUNA TV
@@ -90,7 +90,7 @@ http://18.18.18.1/ch11/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
 http://18.18.18.1/ch5/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="DBC NEWS" tvg-logo="http://toffe.top/images/dbc.png" group-title="News", DBC NEWS
-https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+http://180.92.238.118:8080/dbc/tracks-v1a1/mono.m3u8
 http://18.18.18.1:7777/ch13/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="REPUBLIC BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" group-title="News", REPUBLIC BANGLA
 https://r-bangla.mssarena71.workers.dev/live/@republicbangla.m3u8
@@ -106,7 +106,7 @@ https://tv9-bangla.mssarena71.workers.dev/live/@TV9BanglaLive.m3u8
 https://zee-news.mssarena71.workers.dev/live/@zeenews.m3u8
 
 #EXTINF: -1 tvg-name="R PLUS" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/49/RPlus_24x7_News_logo_%282016%29.png" group-title="News", R PLUS NEWS
-https://r-plus.mssarena71.workers.dev/live/@RPLUSNEWS24X7.m3u8
+
 #EXTINF: -1 tvg-name="Aaj Tak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News", AAJ TAK
 https://aaj-tak.mssarena71.workers.dev/live/@aajtak.m3u8
 #EXTINF: -1 tvg-name="DW" tvg-logo="http://toffe.top/images/dwtv.png" group-title="News", DW
